@@ -44,19 +44,7 @@ function deckDefinitionToDeck(
 
 
 
-function rowHasNobelPrize(
-  row: SourceRow,
-  options: {
-    awardId?: string;
-    awardLabel: string;
-  },
-): boolean {
-  if (options.awardId && row.award === options.awardId) {
-    return true;
-  }
 
-  return row.awardLabel === options.awardLabel;
-}
 
 const rootDeckDefinition: DeckDefinition = {
   slug: "all",
