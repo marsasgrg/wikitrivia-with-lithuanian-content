@@ -123,7 +123,7 @@
       "difficultyCounts": {
         "easy": 212,
         "normal": 421,
-        "hard": 1049
+        "hard": 1050
       },
       "id": "all-leaders",
       "minScore": 1000,
@@ -136,7 +136,7 @@
           "difficultyCounts": {
             "easy": 50,
             "normal": 89,
-            "hard": 161
+            "hard": 162
           },
           "id": "all-leaders-politicians",
           "minScore": 1000,
@@ -149,7 +149,7 @@
               "difficultyCounts": {
                 "easy": 23,
                 "normal": 42,
-                "hard": 85
+                "hard": 90
               },
               "id": "all-leaders-politicians-europe",
               "minScore": 1000,
@@ -169,6 +169,19 @@
                   "slug": "uk",
                   "themeHue": 180,
                   "title": "U.K.",
+                  "frequency": 1.4
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 1,
+                    "hard": 13
+                  },
+                  "id": "all-leaders-politicians-europe-lithuania",
+                  "minScore": 31,
+                  "slug": "lithuania",
+                  "themeHue": 180,
+                  "title": "Lithuania",
                   "frequency": 1.4
                 },
                 {
@@ -663,7 +676,7 @@
                   "slug": "lithuania",
                   "themeHue": 180,
                   "title": "Lithuania",
-                  "frequency": 0.15
+                  "frequency": 1.4
                 },
                 {
                   "difficultyCounts": {

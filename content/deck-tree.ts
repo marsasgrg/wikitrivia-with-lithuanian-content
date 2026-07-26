@@ -193,6 +193,8 @@ import wessexKingsTakingOffice from "./queries/wessex-kings-taking-office/query"
 import writingSystemsYear from "./queries/writing-systems-year/query";
 import { QueryDefinition, SourceRow } from "./query-definition";
 import lithuanianKingsTakingOffice from "./queries/lithuanian-monarchs-taking-office/query";
+import lithuanianPMsTakingOffice from "./queries/lithuanian-prime-ministers-taking-office/query";
+import lithuanianPresidentsTakingOffice from "./queries/lithuanian-presidents-taking-office/query";
 
 interface DeckDefinition {
   children?: readonly DeckDefinition[];
@@ -378,6 +380,12 @@ const rootDeckDefinition: DeckDefinition = {
                   title: "U.K.",
                   frequency: 1.4,
                   sources: [ukPrimeMinistersTakingOffice],
+                },
+                {
+                  slug: "lithuania",
+                  title: "Lithuania",
+                  frequency: 1.4,
+                  sources: [lithuanianPMsTakingOffice, lithuanianPresidentsTakingOffice],
                 },
                 {
                   slug: "france",
@@ -609,7 +617,7 @@ const rootDeckDefinition: DeckDefinition = {
                 {
                   slug: "lithuania",
                   title: "Lithuania",
-                  frequency: 0.15,
+                  frequency: 1.4,
                   sources: [lithuanianKingsTakingOffice],
                 },
                 {
