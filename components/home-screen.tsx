@@ -12,7 +12,7 @@ export default function HomeScreen() {
           <div className={styles.stage}>
             <SiteHero subtitle="Put the world's knowledge in chronological order." />
             <div className={styles.actions}>
-              <ButtonLink fullWidth href="/daily" text="Daily" />
+              {/* <ButtonLink fullWidth href="/daily" text="Daily" /> */}
               <ButtonLink fullWidth href="/play" minimal text="Free play" />
             </div>
           </div>
