@@ -848,5 +848,25 @@
     "wikipediaSlug": "Antergos",
     "image": "Antergos_19.4_with_GNOME_3.32.0_screenshot.png",
     "pageViews": 1552
+  },
+  {
+    "qid": "Q737508",
+    "title": "Windows 3.x is released",
+    "subtitle": "Operating System",
+    "year": 1990,
+    "fact": "Windows 3.x means either of, or all of the following versions of Microsoft Windows:Windows 3.0 Windows 3.1",
+    "wikipediaSlug": "Windows_3.x",
+    "image": "MS-Windows-3.0-installation-disks-german.jpg",
+    "pageViews": 953
+  },
+  {
+    "qid": "Q375150",
+    "title": "Gobuntu is released",
+    "subtitle": "Operating System",
+    "year": 2007,
+    "fact": "Gobuntu was a short-lived official derivative of the Ubuntu operating system that was conceived to provide a distribution consisting entirely of free software.",
+    "wikipediaSlug": "Gobuntu",
+    "image": "Gobuntu_screenshot.png",
+    "pageViews": 721
   }
 ]

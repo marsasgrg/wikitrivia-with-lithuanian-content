@@ -688,5 +688,45 @@
     "wikipediaSlug": "Arsinoe_III",
     "image": "Dinastia_tolemaica,_arsinoe_III,_octodracma,_204-203_ac_ca.JPG",
     "pageViews": 1245
+  },
+  {
+    "qid": "Q57497453",
+    "title": "Wash becomes pharaoh",
+    "subtitle": null,
+    "year": -4000,
+    "fact": "Wash was possibly a pharaoh from the Predynastic Period in Ancient Egypt, approximately 5,000 years ago.",
+    "wikipediaSlug": "Wash_(pharaoh)",
+    "image": "Wash_(pharaoh).jpg",
+    "pageViews": 801
+  },
+  {
+    "qid": "Q349184",
+    "title": "Neferkara I becomes pharaoh",
+    "subtitle": null,
+    "year": -2749,
+    "fact": "Neferkare I also spelled Neferkara I is the cartouche name of a king (pharaoh) who is said to have ruled during the 2nd Dynasty of Ancient Egypt.",
+    "wikipediaSlug": "Neferkare_I",
+    "image": "Neferkarsakkara.png",
+    "pageViews": 537
+  },
+  {
+    "qid": "Q462378",
+    "title": "Amenemhet VI becomes pharaoh",
+    "subtitle": null,
+    "year": -1729,
+    "fact": "Seankhibre Ameny Antef Amenemhat VI was an Egyptian pharaoh of the early Thirteenth Dynasty.",
+    "wikipediaSlug": "Amenemhat_VI",
+    "image": "Offering_table_of_Amenemhat_VI.jpg",
+    "pageViews": 441
+  },
+  {
+    "qid": "Q3782189",
+    "title": "Nebiriau II becomes pharaoh",
+    "subtitle": null,
+    "year": -1581,
+    "fact": "Nebiryraw II was an ancient Egyptian pharaoh of the Theban-based 16th Dynasty, during the Second Intermediate Period.",
+    "wikipediaSlug": "Nebiryraw_II",
+    "image": "Statuette_Harpocrates_Mariette.jpg",
+    "pageViews": 429
   }
 ]

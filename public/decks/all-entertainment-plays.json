@@ -968,5 +968,35 @@
     "wikipediaSlug": "Scapin_the_Schemer",
     "image": "FourberiesScapin.jpg",
     "pageViews": 1006
+  },
+  {
+    "qid": "Q672319",
+    "title": "‘The Suppliants’ premieres",
+    "subtitle": "Play by Euripides",
+    "year": -419,
+    "fact": "The Suppliants, also called The Suppliant Women, first performed in 423 BC, is an ancient Greek play by Euripides.",
+    "wikipediaSlug": "The_Suppliants_(Euripides)",
+    "image": "Seated_Euripides_Louvre_Ma343.jpg",
+    "pageViews": 997
+  },
+  {
+    "qid": "Q289117",
+    "title": "‘John Gabriel Borkman’ premieres",
+    "subtitle": "Play by Henrik Ibsen",
+    "year": 1896,
+    "fact": "John Gabriel Borkman is an 1896 play by the Norwegian playwright Henrik Ibsen.",
+    "wikipediaSlug": "John_Gabriel_Borkman",
+    "image": "LinnStokke-1979-DEX_FS_000228.jpg",
+    "pageViews": 807
+  },
+  {
+    "qid": "Q1219041",
+    "title": "‘Les Précieuses ridicules’ premieres",
+    "subtitle": "Play by Molière",
+    "year": 1659,
+    "fact": "Les Précieuses ridicules is a one-act satire by Molière in prose.",
+    "wikipediaSlug": "Les_Pr%C3%A9cieuses_ridicules",
+    "image": "LesPrecieusesRidicules.jpg",
+    "pageViews": 657
   }
 ]

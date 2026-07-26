@@ -78,5 +78,15 @@
     "wikipediaSlug": "Luanti",
     "image": "Minetest_logo.svg",
     "pageViews": 4898
+  },
+  {
+    "qid": "Q15681815",
+    "title": "‘REDengine’ is released",
+    "subtitle": "Game engine by CD Projekt RED",
+    "year": 2011,
+    "fact": "CD Projekt S.A. is a Polish video game company based in Warsaw, founded in May 1994 by Marcin Iwiński and Michał Kiciński.",
+    "wikipediaSlug": "REDengine",
+    "image": "CD_Projekt_logo.svg",
+    "pageViews": 577
   }
 ]

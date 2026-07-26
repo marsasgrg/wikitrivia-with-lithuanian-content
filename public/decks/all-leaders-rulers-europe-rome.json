@@ -748,5 +748,55 @@
     "wikipediaSlug": "Victor_(emperor)",
     "image": "Solidus_Flavius_Victor_Trier_(obverse).jpg",
     "pageViews": 1015
+  },
+  {
+    "qid": "Q311274",
+    "title": "Valerius Valens becomes Roman emperor",
+    "subtitle": null,
+    "year": 316,
+    "fact": "Aurelius Valerius Valens, rarely enumerated as Valens I, was briefly Roman emperor from late 316 to early 317.",
+    "wikipediaSlug": "Valerius_Valens",
+    "image": "Valerius_Valens_Follis_Alexandria.jpg",
+    "pageViews": 951
+  },
+  {
+    "qid": "Q268744",
+    "title": "Martinianus becomes Roman emperor",
+    "subtitle": null,
+    "year": 324,
+    "fact": "Martinian was Roman emperor from July to September 324.",
+    "wikipediaSlug": "Martinian_(emperor)",
+    "image": "Follis_of_Martinian,_324.jpg",
+    "pageViews": 827
+  },
+  {
+    "qid": "Q378675",
+    "title": "Macrianus Major becomes Roman emperor",
+    "subtitle": null,
+    "year": 260,
+    "fact": "Fulvius Macrianus, also called Macrianus Major, was a Roman usurper.",
+    "wikipediaSlug": "Macrianus_Major",
+    "image": "Macrianus_Major.jpg",
+    "pageViews": 586
+  },
+  {
+    "qid": "Q114072",
+    "title": "Ingenuus becomes Roman emperor",
+    "subtitle": null,
+    "year": 258,
+    "fact": "Ingenuus was a Roman military commander, the imperial legate in Pannonia, who became a usurper to the throne of the emperor Gallienus when he led a brief and unsuccessful revolt in the year 260.",
+    "wikipediaSlug": "Ingenuus",
+    "image": "Ingenuus.jpg",
+    "pageViews": 439
+  },
+  {
+    "qid": "Q263444",
+    "title": "Pacatian becomes Roman emperor",
+    "subtitle": null,
+    "year": 248,
+    "fact": "Pacatianus, known in English as Pacatian was a usurper in the Danube area of the Roman Empire during the time of Philip the Arab.",
+    "wikipediaSlug": "Pacatian",
+    "image": "Antoninianus-Pacatianus-1001-RIC_0006cf.jpg",
+    "pageViews": 411
   }
 ]

@@ -2588,5 +2588,35 @@
     "wikipediaSlug": "Mi_camino_es_amarte",
     "image": "Mi_camino_es_amarte_poster.jpg",
     "pageViews": 1309
+  },
+  {
+    "qid": "Q126284846",
+    "title": "‘Mi amor sin tiempo’ airs for the first time",
+    "subtitle": "Mexican telenovela",
+    "year": 2024,
+    "fact": "Mi amor sin tiempo is a Mexican telenovela produced by Carlos Moreno for TelevisaUnivision.",
+    "wikipediaSlug": "Mi_amor_sin_tiempo",
+    "image": "Mi_amor_sin_tiempo_poster.jpg",
+    "pageViews": 969
+  },
+  {
+    "qid": "Q26989383",
+    "title": "‘Carinha de Anjo’ airs for the first time",
+    "subtitle": "Brazilian remake of the Mexican telenovela Carita de ángel",
+    "year": 2016,
+    "fact": "Carinha de Anjo is a Brazilian children's telenovela created by Leonor Corrêa and written by Íris Abravanel, originally broadcast by SBT from November 21, 2016 to June 6, 2018.",
+    "wikipediaSlug": "Carinha_de_Anjo",
+    "image": "Carinha_de_Anjo.png",
+    "pageViews": 744
+  },
+  {
+    "qid": "Q26251293",
+    "title": "‘Sol Nascente’ airs for the first time",
+    "subtitle": "Brazilian telenovela",
+    "year": 2016,
+    "fact": "Sol Nascente is a Brazilian telenovela produced and broadcast by TV Globo.",
+    "wikipediaSlug": "Sol_Nascente",
+    "image": "Sol_Nascente_titlecard.png",
+    "pageViews": 492
   }
 ]

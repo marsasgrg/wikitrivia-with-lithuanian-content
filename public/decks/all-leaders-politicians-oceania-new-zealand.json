@@ -188,5 +188,25 @@
     "wikipediaSlug": "John_Ballance",
     "image": "John_Ballance_1880.jpg",
     "pageViews": 1058
+  },
+  {
+    "qid": "Q1356502",
+    "title": "William Fox becomes prime minister of New Zealand",
+    "subtitle": null,
+    "year": 1856,
+    "fact": "Sir William Fox was a New Zealand politician who was the second premier of New Zealand in 1856, from 1861 to 1862, from 1869 to 1872, and in 1873.",
+    "wikipediaSlug": "William_Fox_(New_Zealand_politician)",
+    "image": "Sir_William_Fox_restored.png",
+    "pageViews": 973
+  },
+  {
+    "qid": "Q1360069",
+    "title": "Alfred Domett becomes prime minister of New Zealand",
+    "subtitle": null,
+    "year": 1862,
+    "fact": "Alfred Domett was the fourth premier of New Zealand, a close friend of the poet Robert Browning and author of the epic poem Ranolf and Amohia, a South Sea Day Dream.",
+    "wikipediaSlug": "Alfred_Domett",
+    "image": "Alfred_Domett_c1870-1887.jpg",
+    "pageViews": 580
   }
 ]

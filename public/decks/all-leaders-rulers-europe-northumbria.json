@@ -78,5 +78,95 @@
     "wikipediaSlug": "Aldfrith_of_Northumbria",
     "image": "Aldfrith_sceat_beast_1.png",
     "pageViews": 1266
+  },
+  {
+    "qid": "Q272227",
+    "title": "Æthelred I becomes King of Northumbria",
+    "subtitle": null,
+    "year": 774,
+    "fact": "Æthelred, was the king of Northumbria from 774 to 779 and again from 790 until he was murdered in 796.",
+    "wikipediaSlug": "%C3%86thelred_I_of_Northumbria",
+    "image": "Coin_of_Æthelred_I_of_Northumbria.jpg",
+    "pageViews": 987
+  },
+  {
+    "qid": "Q271379",
+    "title": "Ælfwald I becomes King of Northumbria",
+    "subtitle": null,
+    "year": 779,
+    "fact": "Ælfwald I was king of Northumbria from 779 to 788.",
+    "wikipediaSlug": "%C3%86lfwald_I_of_Northumbria",
+    "image": "Sceat_of_Ælfwald_of_Northumbria.png",
+    "pageViews": 717
+  },
+  {
+    "qid": "Q368895",
+    "title": "Eanred becomes King of Northumbria",
+    "subtitle": null,
+    "year": 808,
+    "fact": "Eanred was king of Northumbria in the early ninth century.",
+    "wikipediaSlug": "Eanred_of_Northumbria",
+    "image": "Coin_of_Eanred_of_Northumbria_1.png",
+    "pageViews": 674
+  },
+  {
+    "qid": "Q880235",
+    "title": "Eadberht becomes King of Northumbria",
+    "subtitle": null,
+    "year": 737,
+    "fact": "Eadberht was king of Northumbria from 737 or 738 to 758.",
+    "wikipediaSlug": "Eadberht_of_Northumbria",
+    "image": "Eadberht_sceat_737_75001443.jpg",
+    "pageViews": 620
+  },
+  {
+    "qid": "Q272238",
+    "title": "Æthelred II becomes King of Northumbria",
+    "subtitle": null,
+    "year": 854,
+    "fact": "Æthelred II was king of Northumbria in the middle of the ninth century, but his dates are uncertain.",
+    "wikipediaSlug": "%C3%86thelred_II_of_Northumbria",
+    "image": "Kings_of_Northumbria_AE_Styca_Aethelred_II.jpg",
+    "pageViews": 583
+  },
+  {
+    "qid": "Q879978",
+    "title": "Alhred becomes King of Northumbria",
+    "subtitle": null,
+    "year": 765,
+    "fact": "Alhred or Alchred was king of Northumbria from 765 to 774.",
+    "wikipediaSlug": "Alhred_of_Northumbria",
+    "image": "Alhred_sceat_765_75001447.jpg",
+    "pageViews": 530
+  },
+  {
+    "qid": "Q272276",
+    "title": "Æthelwald Moll becomes King of Northumbria",
+    "subtitle": null,
+    "year": 759,
+    "fact": "Æthelwald Moll was King of Northumbria, the historic petty kingdom of Angles in medieval England, from 759 to 765.",
+    "wikipediaSlug": "%C3%86thelwald_Moll_of_Northumbria",
+    "image": "Æthelwald_Moll,_with_Archbishop_Ecgberht,_silver_sceat;_struck_759–765.png",
+    "pageViews": 513
+  },
+  {
+    "qid": "Q284909",
+    "title": "Rædwulf becomes King of Northumbria",
+    "subtitle": null,
+    "year": 844,
+    "fact": "Rædwulf was king of Northumbria for a short time.",
+    "wikipediaSlug": "R%C3%A6dwulf_of_Northumbria",
+    "image": "Copper_alloy_styca_of_King_Raedwulf_(YORYM_2000_3574)_obverse.jpg",
+    "pageViews": 395
+  },
+  {
+    "qid": "Q271383",
+    "title": "Ælfwald II of Northumbria becomes King of Northumbria",
+    "subtitle": null,
+    "year": 806,
+    "fact": "Ælfwald II, according to one tradition, reigned as king of Northumbria following the deposition of Eardwulf in 806.",
+    "wikipediaSlug": "%C3%86lfwald_II_of_Northumbria",
+    "image": "Coin_of_Ælfwald_II_of_Northumbria.png",
+    "pageViews": 319
   }
 ]

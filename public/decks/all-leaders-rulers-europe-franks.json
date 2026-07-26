@@ -218,5 +218,25 @@
     "wikipediaSlug": "Philip_of_France_(1116%E2%80%931131)",
     "image": "Philip_of_France_(1131).jpg",
     "pageViews": 1411
+  },
+  {
+    "qid": "Q316881",
+    "title": "Charibert II becomes king of Franks",
+    "subtitle": null,
+    "year": 629,
+    "fact": "Charibert II, a son of Clotaire II and his junior wife Sichilde, was the first King of Aquitaine from 629 to his death, with his capital at Toulouse.",
+    "wikipediaSlug": "Charibert_II",
+    "image": "Caribert_II_Tremissis_Banassac_629_632.jpg",
+    "pageViews": 710
+  },
+  {
+    "qid": "Q316908",
+    "title": "Chlothar IV becomes king of Franks",
+    "subtitle": null,
+    "year": 717,
+    "fact": "Chlothar IV was the king of Austrasia from 717 until his death.",
+    "wikipediaSlug": "Chlothar_IV",
+    "image": "Lex_Alamannorum_Hlotharii.png",
+    "pageViews": 554
   }
 ]

@@ -5588,5 +5588,75 @@
     "wikipediaSlug": "Naoki_Matsuda",
     "image": "Naoki_Matsuda.jpg",
     "pageViews": 1111
+  },
+  {
+    "qid": "Q115490",
+    "title": "Tadeusz Reichstein dies",
+    "subtitle": "Polish-Swiss chemist",
+    "year": 1996,
+    "fact": "Tadeusz Reichstein, also known as Tadeus Reichstein, was a Polish-Swiss chemist and a Nobel Prize in Physiology or Medicine laureate (1950), which was awarded for his work on the isolation of cortisone.",
+    "wikipediaSlug": "Tadeusz_Reichstein",
+    "image": "Thadeus_Reichstein_ETH-Bib_Portr_10137.jpg",
+    "pageViews": 944
+  },
+  {
+    "qid": "Q80905",
+    "title": "Donald Arthur Glaser dies",
+    "subtitle": "American physicist and neurobiologist",
+    "year": 2013,
+    "fact": "Donald Arthur Glaser was an American physicist and biologist who received the Nobel Prize in Physics in 1960 for his invention of the bubble chamber.",
+    "wikipediaSlug": "Donald_Glaser",
+    "image": "Donald_Glaser.jpg",
+    "pageViews": 832
+  },
+  {
+    "qid": "Q318126",
+    "title": "Ernst Öpik dies",
+    "subtitle": "Estonian astronomer and astrophysicist",
+    "year": 1985,
+    "fact": "Ernst Julius Öpik was an Estonian astronomer and astrophysicist who spent the second half of his career (1948–1981) at the Armagh Observatory in Northern Ireland.",
+    "wikipediaSlug": "Ernst_%C3%96pik",
+    "image": "ErnstJuliusOpik.jpg",
+    "pageViews": 789
+  },
+  {
+    "qid": "Q106399",
+    "title": "John Howard Northrop dies",
+    "subtitle": "American biochemist",
+    "year": 1987,
+    "fact": "John Howard Northrop was an American biochemist who, with James Batcheller Sumner and Wendell Meredith Stanley, won the 1946 Nobel Prize in Chemistry.",
+    "wikipediaSlug": "John_Howard_Northrop",
+    "image": "John_Howard_Northrop.jpg",
+    "pageViews": 766
+  },
+  {
+    "qid": "Q348205",
+    "title": "Viktor Gorbatko dies",
+    "subtitle": "Soviet cosmonaut",
+    "year": 2017,
+    "fact": "Viktor Vasilyevich Gorbatko was a Soviet cosmonaut who flew on the Soyuz 7, Soyuz 24, and Soyuz 37 missions.",
+    "wikipediaSlug": "Viktor_Gorbatko",
+    "image": "Viktor_Gorbatko_21.jpg",
+    "pageViews": 630
+  },
+  {
+    "qid": "Q359568",
+    "title": "Vladimir A. Obruchev dies",
+    "subtitle": "Russian and Soviet geologist and writer",
+    "year": 1956,
+    "fact": "Vladimir Afanasyevich Obruchev was a Russian and Soviet geologist who specialized in the study of Siberia and Central Asia.",
+    "wikipediaSlug": "Vladimir_Obruchev",
+    "image": "1886-ObruchevVA.jpg",
+    "pageViews": 486
+  },
+  {
+    "qid": "Q12162960",
+    "title": "Stefania Turkevych-Lukiianovych dies",
+    "subtitle": "Ukrainian pianist, composer, and musicologist",
+    "year": 1977,
+    "fact": "Stefania Ivanivna Turkewich-Lukianovych was a Ukrainian composer, pianist, and musicologist.",
+    "wikipediaSlug": "Stefania_Turkewich",
+    "image": "Stefania_Turkewich.jpg",
+    "pageViews": 421
   }
 ]

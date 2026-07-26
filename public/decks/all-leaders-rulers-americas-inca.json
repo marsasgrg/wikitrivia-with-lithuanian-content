@@ -68,5 +68,65 @@
     "wikipediaSlug": "Viracocha_Inca",
     "image": "Brooklyn_Museum_-_Viracocha,_Eighth_Inca,_1_of_14_Portraits_of_Inca_Kings_-_overall.jpg",
     "pageViews": 1240
+  },
+  {
+    "qid": "Q377942",
+    "title": "Inca Roca becomes Sapa Inca",
+    "subtitle": null,
+    "year": 1350,
+    "fact": "Inca Roca was the sixth Sapa Inca of the Kingdom of Cusco and the first of the Hanan (\"upper\") Qusqu dynasty.",
+    "wikipediaSlug": "Inca_Roca",
+    "image": "Inca_Roca.jpg",
+    "pageViews": 979
+  },
+  {
+    "qid": "Q377927",
+    "title": "Yáhuar Huácac becomes Sapa Inca",
+    "subtitle": null,
+    "year": 1380,
+    "fact": "Yawar Waqaq or Yawar Waqaq Inka was the seventh Sapa Inca of the Kingdom of Cusco and the second of the Hanan dynasty.",
+    "wikipediaSlug": "Yawar_Waqaq",
+    "image": "SAHUARAURA_p072_-_IAHUAR_HUACCAC.jpg",
+    "pageViews": 909
+  },
+  {
+    "qid": "Q165971",
+    "title": "Sinchi Roca becomes Sapa Inca",
+    "subtitle": null,
+    "year": 1230,
+    "fact": "Sinchi Roca, also known as Sinchi Rocca, Cinchi Roca, Sinchi Ruq'a and Sinchi Ruq'a Inka, was the second Sapa Inca of the Kingdom of Cusco and a member of the Hurin dynasty.",
+    "wikipediaSlug": "Sinchi_Roca",
+    "image": "Sinchi_Roca.jpg",
+    "pageViews": 891
+  },
+  {
+    "qid": "Q166029",
+    "title": "Cápac Yupanqui becomes Sapa Inca",
+    "subtitle": null,
+    "year": 1320,
+    "fact": "Cápac Yupanqui was the fifth Sapa Inca of the Kingdom of Cusco and the last of the Hurin dynasty.",
+    "wikipediaSlug": "C%C3%A1pac_Yupanqui",
+    "image": "Cápac_Yupanqui.jpg",
+    "pageViews": 768
+  },
+  {
+    "qid": "Q165928",
+    "title": "Lloque Yupanqui becomes Sapa Inca",
+    "subtitle": null,
+    "year": 1260,
+    "fact": "Lloque Yupanqui was the third Sapa Inca of the Kingdom of Cuzco and a member of the Hurin dynasty.",
+    "wikipediaSlug": "Lloque_Yupanqui",
+    "image": "Lloque.JPG",
+    "pageViews": 757
+  },
+  {
+    "qid": "Q165987",
+    "title": "Mayta Cápac becomes Sapa Inca",
+    "subtitle": null,
+    "year": 1290,
+    "fact": "Mayta Cápac was the fourth Sapa Inca of the Kingdom of Cuzco and a member of the Hurin dynasty.",
+    "wikipediaSlug": "Mayta_C%C3%A1pac",
+    "image": "Mayta_Capac.jpg",
+    "pageViews": 580
   }
 ]

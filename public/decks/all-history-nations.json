@@ -7708,5 +7708,55 @@
     "wikipediaSlug": "Upper_Senegal_and_Niger",
     "image": "Flag_of_France.svg",
     "pageViews": 1051
+  },
+  {
+    "qid": "Q15925292",
+    "title": "Declaration of Independence of the Republic of Crimea is proclaimed",
+    "subtitle": "Declaration of independence",
+    "year": 2014,
+    "fact": "The Declaration of Independence of the Autonomous Republic of Crimea and Sevastopol was a joint resolution adopted on March 11, 2014 by the Supreme Council of Crimea and the Sevastopol City Council that proclaimed the Autonomous Republic of Crimea and the city of Sevastopol a sovereign state — the Republic of Crimea.",
+    "wikipediaSlug": "Declaration_of_Independence_of_the_Republic_of_Crimea",
+    "image": "Flag_of_Crimea.svg",
+    "pageViews": 892
+  },
+  {
+    "qid": "Q1133400",
+    "title": "Justinian dynasty begins",
+    "subtitle": "Dynasty",
+    "year": 518,
+    "fact": "The Byzantine Empire under the Justinian dynasty began in 518 AD with the accession of Justin I.",
+    "wikipediaSlug": "Justinian_dynasty",
+    "image": "4KJUSTINIAN.png",
+    "pageViews": 698
+  },
+  {
+    "qid": "Q16414371",
+    "title": "Declaration of Independence of Azerbaijan is proclaimed",
+    "subtitle": "Declaration of independence",
+    "year": 1918,
+    "fact": "The Declaration of Independence of Azerbaijan is the pronouncement adopted by the Azerbaijani National Council meeting in Tiflis on 28 May 1918, declaring the independence of the Azerbaijan Democratic Republic.",
+    "wikipediaSlug": "Declaration_of_Independence_of_Azerbaijan",
+    "image": "Declaration_of_Independence_of_Azerbaijan.png",
+    "pageViews": 658
+  },
+  {
+    "qid": "Q12818551",
+    "title": "Arsacid dynasty of Parthia begins",
+    "subtitle": "Dynasty",
+    "year": -246,
+    "fact": "The Parthian Empire, also known as the Arsacid Empire, was a major Iranian political and cultural power centered in ancient Iran from 247 BC to 224 AD.",
+    "wikipediaSlug": "Arsacid_dynasty",
+    "image": "Map_of_the_Parthian_Empire_under_Mithridates_II.svg",
+    "pageViews": 488
+  },
+  {
+    "qid": "Q1055742",
+    "title": "Azawadi declaration of independence is proclaimed",
+    "subtitle": "Declaration of independence",
+    "year": 2012,
+    "fact": "On 6 April 2012, the National Movement for the Liberation of Azawad unilaterally declared Azawad independent from the Republic of Mali in the wake of a rebellion which was preceded by a string of other Tuareg rebellions.",
+    "wikipediaSlug": "Azawadi_declaration_of_independence",
+    "image": "MNLA_flag.svg",
+    "pageViews": 466
   }
 ]

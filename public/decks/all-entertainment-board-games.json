@@ -398,5 +398,55 @@
     "wikipediaSlug": "Luzhanqi",
     "image": "Luzhanqi.JPG",
     "pageViews": 1020
+  },
+  {
+    "qid": "Q1324206",
+    "title": "‘El Grande’ is released",
+    "subtitle": "Board game by",
+    "year": 1995,
+    "fact": "El Grande is a German-style board game for 2-5 players, designed by Wolfgang Kramer and Richard Ulrich, and published in 1995 by Hans im Glück in German, by Rio Grande Games in English, and by 999 Games in Dutch.",
+    "wikipediaSlug": "El_Grande",
+    "image": "El_Grande.jpg",
+    "pageViews": 815
+  },
+  {
+    "qid": "Q1934596",
+    "title": "‘Alhambra’ is released",
+    "subtitle": "Board game by Queen Games",
+    "year": 2003,
+    "fact": "Alhambra is a 2003 tile-based German-style board game designed by Dirk Henn.",
+    "wikipediaSlug": "Alhambra_(board_game)",
+    "image": "Deskohraní_08-10-05_048.jpg",
+    "pageViews": 719
+  },
+  {
+    "qid": "Q1852249",
+    "title": "‘Thurn and Taxis’ is released",
+    "subtitle": "Board game by Hans im Glück",
+    "year": 2006,
+    "fact": "Thurn and Taxis is a board game designed by Karen and Andreas Seyfarth and published in 2006 by Hans im Glück in German and by Rio Grande Games in English.",
+    "wikipediaSlug": "Thurn_and_Taxis_(board_game)",
+    "image": "Thurn_and_Taxis_(a_board_game).jpg",
+    "pageViews": 717
+  },
+  {
+    "qid": "Q932940",
+    "title": "‘Caylus’ is released",
+    "subtitle": "Board game by",
+    "year": 2005,
+    "fact": "Caylus is a strategy oriented, German-style board game designed by William Attia and independently published in 2005 by Ystari in France and England, and Rio Grande Games in North America.",
+    "wikipediaSlug": "Caylus_(game)",
+    "image": "Caylus_game.jpg",
+    "pageViews": 581
+  },
+  {
+    "qid": "Q1518661",
+    "title": "‘Stone Age’ is released",
+    "subtitle": "Board game by",
+    "year": 2008,
+    "fact": "Stone Age is a designer board game designed by Michael Tummelhofer and published by Hans im Glück in 2008.",
+    "wikipediaSlug": "Stone_Age_(board_game)",
+    "image": "Stone_Age_game.jpg",
+    "pageViews": 483
   }
 ]

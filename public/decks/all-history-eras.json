@@ -1068,5 +1068,35 @@
     "wikipediaSlug": "Merimde_culture",
     "image": "Merimde_clay_head,_Predynastic_Period,_Maadi_Era,_4th_millennium_BCE.jpg",
     "pageViews": 1100
+  },
+  {
+    "qid": "Q169320",
+    "title": "Trialeti-Vanadzor culture begins",
+    "subtitle": "Archaeological culture",
+    "year": -2199,
+    "fact": "The Trialeti-Vanadzor culture, also known simply as the Trialeti culture and previously referred to as the Trialeti-Kirovakan culture, is named after the Trialeti region in present-day Georgia and the city of Vanadzor in Armenia.",
+    "wikipediaSlug": "Trialeti-Vanadzor_culture",
+    "image": "Gold_goblet_cropped.jpg",
+    "pageViews": 990
+  },
+  {
+    "qid": "Q901198",
+    "title": "Chimú culture begins",
+    "subtitle": "Archaeological culture",
+    "year": 1100,
+    "fact": "Chimor was the political grouping of the Chimú culture.",
+    "wikipediaSlug": "Chim%C3%BA_culture",
+    "image": "Photomontage_Chimu_Culture.jpg",
+    "pageViews": 832
+  },
+  {
+    "qid": "Q306350",
+    "title": "Abbevillian begins",
+    "subtitle": "Archaeological culture",
+    "year": -600000,
+    "fact": "Abbevillian is a term for the oldest lithic industry found in Europe, dated to between roughly 600,000 and 400,000 years ago.",
+    "wikipediaSlug": "Abbevillian",
+    "image": "Bifaz_abbevillense.png",
+    "pageViews": 474
   }
 ]

@@ -4708,5 +4708,65 @@
     "wikipediaSlug": "R-39_(missile)",
     "image": "Rsm52.jpg",
     "pageViews": 1390
+  },
+  {
+    "qid": "Q4637032",
+    "title": "4″/50 Caliber gun enters service",
+    "subtitle": "Naval artillery series of the United States",
+    "year": 1914,
+    "fact": "The 4″/50-caliber gun was the standard low-angle, quick-firing gun for the United States, first appearing on the monitor Arkansas and then used on \"Flush Deck\" destroyers through World War I and the 1920s.",
+    "wikipediaSlug": "4-inch/50-caliber_gun",
+    "image": "USS_Ward_4_inch_gun_Minnesota_Capitol.jpg",
+    "pageViews": 983
+  },
+  {
+    "qid": "Q1438238",
+    "title": "QF 4.7 inch Mk I–IV gun enters service",
+    "subtitle": "British quick-firing naval/coastal defence artiillery",
+    "year": 1887,
+    "fact": "The QF 4.7-inch gun Mks I, II, III, and IV were a family of British quick-firing 4.724-inch (120 mm) naval and coast defence guns of the late 1880s and 1890s that served with the navies of various countries.",
+    "wikipediaSlug": "QF_4.7-inch_Mk_I%E2%80%93IV_naval_gun",
+    "image": "QF_4.7_inch_gun_deck_mounting.jpg",
+    "pageViews": 970
+  },
+  {
+    "qid": "Q2121203",
+    "title": "4.7 Inch QF Mk IX,XII gun enters service",
+    "subtitle": "British naval artillery",
+    "year": 1928,
+    "fact": "The 4.7 inch QF Mark IX and Mark XII were 45-calibre, 4.7-inch (120 mm) naval guns which armed the majority of Royal Navy and Commonwealth destroyers in World War II, and were exported to many countries after World War II as the destroyers they were mounted on were sold off.",
+    "wikipediaSlug": "QF_4.7-inch_Mk_IX_%26_XII_naval_gun",
+    "image": "The_Royal_Navy_during_the_Second_World_War_A252.jpg",
+    "pageViews": 795
+  },
+  {
+    "qid": "Q1413519",
+    "title": "17 Cm mittlerer Minenwerfer enters service",
+    "subtitle": "German WW1 mortar",
+    "year": 1913,
+    "fact": "The 17 cm mittlerer Minenwerfer was a mortar used by Germany in World War I.",
+    "wikipediaSlug": "17_cm_mittlerer_Minenwerfer",
+    "image": "Minenwerfer_170_mm_Memorial_de_Verdun.jpg",
+    "pageViews": 633
+  },
+  {
+    "qid": "Q1649568",
+    "title": "QF 4 inch Mk IV, XII, XXII gun enters service",
+    "subtitle": "British naval artillery",
+    "year": 1911,
+    "fact": "The QF 4-inch gun Mk IV was the main gun on most Royal Navy and British Empire destroyers in World War I.",
+    "wikipediaSlug": "QF_4-inch_naval_gun_Mk_IV,_XII,_XXII",
+    "image": "QF_4_inch_gun_HMS_Lance_South_Kensington_1926_IWM_Q_45231.jpg",
+    "pageViews": 611
+  },
+  {
+    "qid": "Q4028492",
+    "title": "BL 12 inch Mk XI – XII gun enters service",
+    "subtitle": "British naval artillery",
+    "year": 1910,
+    "fact": "The BL 12-inch Mark XI and Mark XII gun were British breech loading (BL) naval guns of 50-calibres length mounted as primary armament on dreadnought battleships from 1910.",
+    "wikipediaSlug": "BL_12-inch_Mk_XI_%E2%80%93_XII_naval_gun",
+    "image": "HMS_Hercules_(aft_deck).jpg",
+    "pageViews": 292
   }
 ]

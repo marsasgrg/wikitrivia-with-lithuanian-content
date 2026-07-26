@@ -58,5 +58,55 @@
     "wikipediaSlug": "Hugh_III,_Duke_of_Burgundy",
     "image": "Hugh_III.jpg",
     "pageViews": 1110
+  },
+  {
+    "qid": "Q529944",
+    "title": "Odo III, Duke of Burgundy becomes Duke of Burgundy",
+    "subtitle": null,
+    "year": 1192,
+    "fact": "Odo III was Duke of Burgundy between 1192 and 1218.",
+    "wikipediaSlug": "Odo_III,_Duke_of_Burgundy",
+    "image": "Sceau_de_Eudes_III_Duc_de_Bourgogne.png",
+    "pageViews": 860
+  },
+  {
+    "qid": "Q530661",
+    "title": "Hugh II, Duke of Burgundy becomes Duke of Burgundy",
+    "subtitle": null,
+    "year": 1103,
+    "fact": "Hugh II was Duke of Burgundy between 1103 and 1143.",
+    "wikipediaSlug": "Hugh_II,_Duke_of_Burgundy",
+    "image": "Hugh_II.jpg",
+    "pageViews": 845
+  },
+  {
+    "qid": "Q536101",
+    "title": "Odo II, Duke of Burgundy becomes Duke of Burgundy",
+    "subtitle": null,
+    "year": 1143,
+    "fact": "Odo II was Duke of Burgundy between 1143 and 1162.",
+    "wikipediaSlug": "Odo_II,_Duke_of_Burgundy",
+    "image": "Eudes_II_de_Bourgogne.jpg",
+    "pageViews": 836
+  },
+  {
+    "qid": "Q117683",
+    "title": "Hugh I, Duke of Burgundy becomes Duke of Burgundy",
+    "subtitle": null,
+    "year": 1076,
+    "fact": "Hugh I was duke of Burgundy between 1076 and 1079.",
+    "wikipediaSlug": "Hugh_I,_Duke_of_Burgundy",
+    "image": "Blason_Ducs_Bourgogne_(ancien).svg",
+    "pageViews": 602
+  },
+  {
+    "qid": "Q1703679",
+    "title": "Theresa of Portugal becomes Duchess of Burgundy",
+    "subtitle": null,
+    "year": 1194,
+    "fact": "Theresa of Portugal was Countess of Flanders by marriage to Philip I, Count of Flanders, and Duchess of Burgundy by marriage to Odo III, Duke of Burgundy.",
+    "wikipediaSlug": "Theresa_of_Portugal,_Countess_of_Flanders",
+    "image": "Tereza_Portugalská.png",
+    "pageViews": 530
   }
 ]

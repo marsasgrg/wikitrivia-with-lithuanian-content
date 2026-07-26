@@ -228,5 +228,45 @@
     "wikipediaSlug": "Thai_Sa",
     "image": "Ang_Thong_-_Pa_Mok_(2024)_-_King_Si_Sanphet_IX_(King_Thai_Sa)_statue_Wat_Pa_Mok_พระเจ้าอยู่หัวท้ายสระ_วัดป่าโมก_-_img_04.jpg",
     "pageViews": 1046
+  },
+  {
+    "qid": "Q613372",
+    "title": "Ramesuan becomes King of Thailand",
+    "subtitle": null,
+    "year": 1369,
+    "fact": "King Ramesuan, son of king Ramathibodi I, reigned as the second and fifth king of the kingdom of Ayutthaya.",
+    "wikipediaSlug": "Ramesuan_(king_of_Ayutthaya)",
+    "image": "Portrait_of_King_Ramesuan(2).jpg",
+    "pageViews": 906
+  },
+  {
+    "qid": "Q561304",
+    "title": "Ramathibodi II becomes King of Thailand",
+    "subtitle": null,
+    "year": 1491,
+    "fact": "Chettathirat, also known upon his accession to the Ayutthayan throne as Ramathibodi II was King of Sukhothai from 1485 and King of Ayutthaya from 1491 to 1529.",
+    "wikipediaSlug": "Ramathibodi_II",
+    "image": "Portrait_of_King_Ramathibodi_II.jpg",
+    "pageViews": 559
+  },
+  {
+    "qid": "Q2881860",
+    "title": "Ban Mueang becomes King of Thailand",
+    "subtitle": null,
+    "year": 1257,
+    "fact": "Ban Mueang was a king of Sukhothai, an ancient kingdom in Thailand.",
+    "wikipediaSlug": "Ban_Mueang",
+    "image": "Phra_Ruang.jpg",
+    "pageViews": 514
+  },
+  {
+    "qid": "Q883010",
+    "title": "Thong Lan becomes King of Thailand",
+    "subtitle": null,
+    "year": 1388,
+    "fact": "King Thong Lan was a king of Ayutthaya, an ancient kingdom in Thailand.",
+    "wikipediaSlug": "Thong_Lan",
+    "image": "Drawing_of_King_Thong_Lan.jpg",
+    "pageViews": 380
   }
 ]

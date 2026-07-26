@@ -938,5 +938,125 @@
     "wikipediaSlug": "Constantine_Laskaris",
     "image": "Coin_of_Constantine_XI_Lascaris.png",
     "pageViews": 1278
+  },
+  {
+    "qid": "Q258150",
+    "title": "Verina becomes Byzantine empress",
+    "subtitle": null,
+    "year": 457,
+    "fact": "Aelia Verina was the Eastern Roman empress as the wife of Leo I.",
+    "wikipediaSlug": "Verina",
+    "image": "Empress_Verina_coin_(cropped).png",
+    "pageViews": 924
+  },
+  {
+    "qid": "Q2191351",
+    "title": "Christopher Lekapenos becomes Byzantine emperor",
+    "subtitle": null,
+    "year": 921,
+    "fact": "Christopher Lekapenos or Lecapenus was the eldest son of Emperor Romanos I Lekapenos and co-emperor of the Byzantine Empire from 921 until his death in 931.",
+    "wikipediaSlug": "Christopher_Lekapenos",
+    "image": "Romanos_I_&_Christopher_(reverse).jpg",
+    "pageViews": 916
+  },
+  {
+    "qid": "Q37089",
+    "title": "Andronikos V Palaiologos becomes Byzantine emperor",
+    "subtitle": null,
+    "year": 1403,
+    "fact": "Andronikos V Palaiologos or Andronicus V Palaeologus was the Byzantine ruler of the city of Thessalonica and surrounding territories from 1403 to his death in 1407, alongside his father John VII Palaiologos.",
+    "wikipediaSlug": "Andronikos_V_Palaiologos",
+    "image": "Andronikos_V_Palaiologos_and_family.jpg",
+    "pageViews": 849
+  },
+  {
+    "qid": "Q3695445",
+    "title": "Constantina becomes Byzantine empress",
+    "subtitle": null,
+    "year": 582,
+    "fact": "Constantina was the empress consort of Maurice of the Eastern Roman Empire.",
+    "wikipediaSlug": "Constantina_(empress)",
+    "image": "Maurice_follis_with_Constantina_and_Theodosius,_Cherson_mint.jpg",
+    "pageViews": 742
+  },
+  {
+    "qid": "Q514180",
+    "title": "Konstantios Doukas becomes Byzantine emperor",
+    "subtitle": null,
+    "year": 1060,
+    "fact": "Konstantios Doukas, Latinized as Constantius Ducas, was a junior Byzantine emperor from 1060 to 1078.",
+    "wikipediaSlug": "Konstantios_Doukas",
+    "image": "Michael_VII_histamenon_with_co-rulers_(cropped).jpg",
+    "pageViews": 735
+  },
+  {
+    "qid": "Q4759496",
+    "title": "Andronikos Doukas becomes Byzantine emperor",
+    "subtitle": null,
+    "year": 1068,
+    "fact": "Andronikos Doukas, Latinized as Andronicus Ducas, was the third son of Byzantine emperor Constantine X Doukas and younger brother of Byzantine emperor Michael VII Doukas.",
+    "wikipediaSlug": "Andronikos_Doukas_(co-emperor)",
+    "image": "Michael_VII_histamenon_with_co-rulers_(cropped).jpg",
+    "pageViews": 666
+  },
+  {
+    "qid": "Q2028843",
+    "title": "Anna of Moscow becomes Byzantine empress",
+    "subtitle": null,
+    "year": 1416,
+    "fact": "Anna Vasilyevna of Moscow was a Byzantine empress consort by marriage to John VIII Palaiologos.",
+    "wikipediaSlug": "Anna_of_Moscow",
+    "image": "Анна_Васильевна_Палеолог,_вышивка_на_саккосе_(cropped).jpg",
+    "pageViews": 637
+  },
+  {
+    "qid": "Q12729945",
+    "title": "Heraclius becomes Byzantine emperor",
+    "subtitle": null,
+    "year": 659,
+    "fact": "Heraclius was Byzantine co-emperor from 659 to 681.",
+    "wikipediaSlug": "Heraclius_(son_of_Constans_II)",
+    "image": "Heraclius_(son_of_Constans_II).jpg",
+    "pageViews": 635
+  },
+  {
+    "qid": "Q2774126",
+    "title": "Anna of Hungary becomes Byzantine empress",
+    "subtitle": null,
+    "year": 1273,
+    "fact": "Anna of Hungary was a Princess of Hungary and Croatia, and a Byzantine Empress by marriage to Andronikos II Palaiologos.",
+    "wikipediaSlug": "Anna_of_Hungary_(Byzantine_empress)",
+    "image": "Andronikos_II_and_Michael_IX_basilikon.jpg",
+    "pageViews": 560
+  },
+  {
+    "qid": "Q125493963",
+    "title": "Ino Anastasia becomes Byzantine empress",
+    "subtitle": null,
+    "year": 578,
+    "fact": "Ino, renamed Aelia Anastasia was the Empress consort of Tiberius II Constantine of the Eastern Roman Empire, and Augusta from 578 until her death.",
+    "wikipediaSlug": "Ino_Anastasia",
+    "image": "Tiberius_II_Constantine_and_Anastasia.png",
+    "pageViews": 490
+  },
+  {
+    "qid": "Q2316077",
+    "title": "Zenonis becomes Byzantine empress",
+    "subtitle": null,
+    "year": 475,
+    "fact": "Aelia Zenonis was Eastern Roman empress as the wife of Basiliscus.",
+    "wikipediaSlug": "Zenonis",
+    "image": "Empress_Zenonis_coin_(cropped).png",
+    "pageViews": 292
+  },
+  {
+    "qid": "Q3657814",
+    "title": "Irene Gattilusio becomes Byzantine empress",
+    "subtitle": null,
+    "year": 1399,
+    "fact": "Irene Gattilusio was a Byzantine empress consort by marriage to John VII Palaiologos, a Byzantine Emperor in 1390.",
+    "wikipediaSlug": "Irene_Gattilusio",
+    "image": "Andronikos_V_Palaiologos_and_family.jpg",
+    "pageViews": 271
   }
 ]

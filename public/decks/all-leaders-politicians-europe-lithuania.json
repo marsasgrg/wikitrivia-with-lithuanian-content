@@ -138,5 +138,45 @@
     "wikipediaSlug": "Augustinas_Voldemaras",
     "image": "Augustinas_Voldemaras.jpg",
     "pageViews": 1057
+  },
+  {
+    "qid": "Q257779",
+    "title": "Kazimira Prunskienė becomes prime minister of Lithuania",
+    "subtitle": null,
+    "year": 1990,
+    "fact": "Kazimira Danutė Prunskienė is a Lithuanian politician who was the first prime minister of Lithuania after the declaration of independence on 11 March 1990, and then Minister of Agriculture in the government of Gediminas Kirkilas.",
+    "wikipediaSlug": "Kazimira_Prunskien%C4%97",
+    "image": "Kazimira_Prunskienė_2010.jpg",
+    "pageViews": 919
+  },
+  {
+    "qid": "Q380985",
+    "title": "Aleksandras Stulginskis becomes president of Lithuania",
+    "subtitle": null,
+    "year": 1920,
+    "fact": "Aleksandras Stulginskis was the second President of Lithuania (1920–1926).",
+    "wikipediaSlug": "Aleksandras_Stulginskis",
+    "image": "Aleksandras_Stulginskis_(1885-1969).jpg",
+    "pageViews": 750
+  },
+  {
+    "qid": "Q356704",
+    "title": "Artūras Paulauskas becomes president of Lithuania",
+    "subtitle": null,
+    "year": 2004,
+    "fact": "Artūras Paulauskas is a Lithuanian politician who was Speaker of Seimas, the parliament of Lithuania, from 2000 to 2006.",
+    "wikipediaSlug": "Art%C5%ABras_Paulauskas",
+    "image": "Paulauskas_2003_(cropped).jpg",
+    "pageViews": 623
+  },
+  {
+    "qid": "Q118937",
+    "title": "Gediminas Kirkilas becomes prime minister of Lithuania",
+    "subtitle": null,
+    "year": 2006,
+    "fact": "Gediminas Kirkilas was a Lithuanian politician who was Prime Minister of Lithuania from 2006 to 2008.",
+    "wikipediaSlug": "Gediminas_Kirkilas",
+    "image": "Gediminas_Kirkilas_2007.jpg",
+    "pageViews": 444
   }
 ]

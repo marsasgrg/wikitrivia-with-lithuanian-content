@@ -78,5 +78,35 @@
     "wikipediaSlug": "1881%E2%80%931896_cholera_pandemic",
     "image": "Professors_Koch_and_Pfeiffer_working_in_a_laboratory,_invest_Wellcome_L0030175.jpg",
     "pageViews": 1253
+  },
+  {
+    "qid": "Q7533201",
+    "title": "Sixth cholera pandemic begins",
+    "subtitle": "Disease outbreak",
+    "year": 1899,
+    "fact": "The sixth cholera pandemic (1899–1923) was a major outbreak of cholera beginning in India, where it killed more than 800,000 people, and spreading to West Asia, North Africa, Eastern Europe, and Russia.",
+    "wikipediaSlug": "1899%E2%80%931923_cholera_pandemic",
+    "image": "Cholera.jpg",
+    "pageViews": 696
+  },
+  {
+    "qid": "Q5476234",
+    "title": "Fourth cholera pandemic begins",
+    "subtitle": "Disease outbreak",
+    "year": 1863,
+    "fact": "The fourth cholera pandemic of the 19th century began in the Ganges Delta of the Bengal region and traveled with Muslim pilgrims to Mecca.",
+    "wikipediaSlug": "1863%E2%80%931875_cholera_pandemic",
+    "image": "Cholera_oysters_Washington_D.C._1866.jpg",
+    "pageViews": 581
+  },
+  {
+    "qid": "Q117443994",
+    "title": "Maidstone typhoid epidemic begins",
+    "subtitle": "Disease outbreak",
+    "year": 1897,
+    "fact": "The Maidstone typhoid epidemic, was the largest typhoid epidemic the United Kingdom had experienced.",
+    "wikipediaSlug": "Maidstone_typhoid_epidemic",
+    "image": "Maidstone_Cemetery,_Kent.jpg",
+    "pageViews": 309
   }
 ]

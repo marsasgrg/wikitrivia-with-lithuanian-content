@@ -3658,5 +3658,795 @@
     "wikipediaSlug": "Swahili_Wikipedia",
     "image": "Wikipedia-logo-sw.png",
     "pageViews": 1007
+  },
+  {
+    "qid": "Q848046",
+    "title": "‘Telugu Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Telugu Wikipedia is the Telugu-language version of Wikipedia.",
+    "wikipediaSlug": "Telugu_Wikipedia",
+    "image": "Wikipedia-logo-v2-te.svg",
+    "pageViews": 996
+  },
+  {
+    "qid": "Q848525",
+    "title": "‘Welsh Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Welsh Wikipedia is the Welsh-language edition of Wikipedia.",
+    "wikipediaSlug": "Welsh_Wikipedia",
+    "image": "Wikipedia-logo-v2-cy.svg",
+    "pageViews": 995
+  },
+  {
+    "qid": "Q1648786",
+    "title": "‘Waray Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2005,
+    "fact": "The Waray Wikipedia is the Waray language edition of Wikipedia.",
+    "wikipediaSlug": "Waray_Wikipedia",
+    "image": "Wikipedia-logo-v2-war.svg",
+    "pageViews": 988
+  },
+  {
+    "qid": "Q53464",
+    "title": "‘Hungarian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Hungarian Wikipedia is the Hungarian/Magyar version of Wikipedia, the free encyclopedia.",
+    "wikipediaSlug": "Hungarian_Wikipedia",
+    "image": "Wikipedia-logo-v2-hu.svg",
+    "pageViews": 986
+  },
+  {
+    "qid": "Q4706566",
+    "title": "‘Cloob’ launches",
+    "subtitle": "Social networking service",
+    "year": 2004,
+    "fact": "Cloob.com was a Persian-language social networking website, mainly popular in Iran.",
+    "wikipediaSlug": "Cloob",
+    "image": "Cloob.com_logo.jpg",
+    "pageViews": 960
+  },
+  {
+    "qid": "Q13512352",
+    "title": "‘Ylilauta’ launches",
+    "subtitle": "Online community",
+    "year": 2011,
+    "fact": "Ylilauta is a Finnish imageboard.",
+    "wikipediaSlug": "Ylilauta",
+    "image": "Ylilauta_2013.jpg",
+    "pageViews": 959
+  },
+  {
+    "qid": "Q714826",
+    "title": "‘Volapük Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Volapük Wikipedia is the Volapük-language edition of the free online encyclopedia Wikipedia.",
+    "wikipediaSlug": "Volap%C3%BCk_Wikipedia",
+    "image": "Wikipedia-logo-v2-vo.svg",
+    "pageViews": 949
+  },
+  {
+    "qid": "Q181163",
+    "title": "‘Danish Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2002,
+    "fact": "The Danish Wikipedia started on 1 February 2002 and is the Danish language edition of Wikipedia.",
+    "wikipediaSlug": "Danish_Wikipedia",
+    "image": "Wikipedia-logo-v2-da.svg",
+    "pageViews": 936
+  },
+  {
+    "qid": "Q874555",
+    "title": "‘Malayalam Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2002,
+    "fact": "The Malayalam Wikipedia is the Malayalam edition of Wikipedia, a free and publicly editable online encyclopedia, and was launched on 21 December 2002.",
+    "wikipediaSlug": "Malayalam_Wikipedia",
+    "image": "Wikipedia-logo-v2-ml.svg",
+    "pageViews": 933
+  },
+  {
+    "qid": "Q875631",
+    "title": "‘Irish Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Irish Wikipedia, also known as An Vicipéid, is the Irish-language version of Wikipedia, run by the Wikimedia Foundation and established in October 2003, with the first article being written in January 2004.",
+    "wikipediaSlug": "Irish_Wikipedia",
+    "image": "Wikipedia-logo-v2-ga.svg",
+    "pageViews": 932
+  },
+  {
+    "qid": "Q11913",
+    "title": "‘Bulgarian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Bulgarian Wikipedia is the Bulgarian-language edition of Wikipedia.",
+    "wikipediaSlug": "Bulgarian_Wikipedia",
+    "image": "Wikipedia-logo-v2-bg.svg",
+    "pageViews": 924
+  },
+  {
+    "qid": "Q1190962",
+    "title": "‘Cantonese Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2006,
+    "fact": "The Cantonese Wikipedia is the Cantonese-language edition of Wikipedia, run by the Wikimedia Foundation.",
+    "wikipediaSlug": "Cantonese_Wikipedia",
+    "image": "Wikipedia-logo-v2-zh-yue.svg",
+    "pageViews": 924
+  },
+  {
+    "qid": "Q1451238",
+    "title": "‘Wapedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "Wapedia was a mobile version of Wikipedia.",
+    "wikipediaSlug": "Wapedia",
+    "image": "Wapedia.jpg",
+    "pageViews": 910
+  },
+  {
+    "qid": "Q244503",
+    "title": "‘ERepublik’ launches",
+    "subtitle": "Website",
+    "year": 2008,
+    "fact": "eRepublik is a free-to-play, web browser-based massively multiplayer online game developed by Romanian studio eRepublik Labs which was launched outside of beta phase on 14 October 2008 and is accessible via the Internet.",
+    "wikipediaSlug": "ERepublik",
+    "image": "ERepublik_Logo.jpg",
+    "pageViews": 892
+  },
+  {
+    "qid": "Q1975217",
+    "title": "‘Armenian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2005,
+    "fact": "The Armenian Wikipedia is the Armenian language version of Wikipedia.",
+    "wikipediaSlug": "Armenian_Wikipedia",
+    "image": "2Լոգո_Ֆրիսերիֆ.png",
+    "pageViews": 886
+  },
+  {
+    "qid": "Q840192",
+    "title": "‘Pasporta Servo’ launches",
+    "subtitle": "Website",
+    "year": 1974,
+    "fact": "The Pasporta Servo is a hospitality exchange service available both online and in print that lists people in Esperanto culture who are willing to offer free homestays to speakers of Esperanto.",
+    "wikipediaSlug": "Pasporta_Servo",
+    "image": "PS_mapo_2015.png",
+    "pageViews": 844
+  },
+  {
+    "qid": "Q1340088",
+    "title": "‘Enciclopedia Universal en Español’ launches",
+    "subtitle": "Website",
+    "year": 2002,
+    "fact": "Enciclopedia Libre Universal en Español was a Spanish-language wiki-based online encyclopedia that started as a fork of the Spanish Wikipedia, released under the Creative Commons Attribution-ShareAlike License 3.0 and using the same MediaWiki software.",
+    "wikipediaSlug": "Enciclopedia_Libre_Universal_en_Espa%C3%B1ol",
+    "image": "Portada_El_spanish_01-04-06.png",
+    "pageViews": 836
+  },
+  {
+    "qid": "Q728945",
+    "title": "‘Latvian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Latvian Wikipedia is the Latvian-language edition of the free online encyclopedia Wikipedia.",
+    "wikipediaSlug": "Latvian_Wikipedia",
+    "image": "Wikipedia-logo-v2-lv.svg",
+    "pageViews": 833
+  },
+  {
+    "qid": "Q200060",
+    "title": "‘Estonian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2002,
+    "fact": "The Estonian Wikipedia is the Estonian version of Wikipedia, the free encyclopedia, started on 24 August 2002.",
+    "wikipediaSlug": "Estonian_Wikipedia",
+    "image": "Wikipedia-logo-v2-et.svg",
+    "pageViews": 829
+  },
+  {
+    "qid": "Q1968379",
+    "title": "‘Yiddish Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "The Yiddish Wikipedia is the Yiddish-language version of Wikipedia.",
+    "wikipediaSlug": "Yiddish_Wikipedia",
+    "image": "Wikipedia-logo-v2-yi.svg",
+    "pageViews": 828
+  },
+  {
+    "qid": "Q2662124",
+    "title": "‘Elgg’ launches",
+    "subtitle": "Social networking service",
+    "year": 2008,
+    "fact": "Elgg is open source social networking software that provides individuals and organizations with the components needed to create an online social environment.",
+    "wikipediaSlug": "Elgg_(software)",
+    "image": "Elgg_white.png",
+    "pageViews": 828
+  },
+  {
+    "qid": "Q848974",
+    "title": "‘Georgian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Georgian Wikipedia is a Georgian language edition of free online encyclopedia Wikipedia.",
+    "wikipediaSlug": "Georgian_Wikipedia",
+    "image": "Wikipedia-logo-v2-ka.svg",
+    "pageViews": 815
+  },
+  {
+    "qid": "Q2081526",
+    "title": "‘Uzbek Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Uzbek Wikipedia is the Uzbek-language edition of Wikipedia, founded in December 2003.",
+    "wikipediaSlug": "Uzbek_Wikipedia",
+    "image": "Wikipedia-logo-v2-uz(2).svg",
+    "pageViews": 802
+  },
+  {
+    "qid": "Q4614845",
+    "title": "‘Burmese Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "The Burmese Wikipedia is the Burmese language edition of the free online encyclopedia Wikipedia.",
+    "wikipediaSlug": "Burmese_Wikipedia",
+    "image": "Wikipedia-logo-v2-my.svg",
+    "pageViews": 794
+  },
+  {
+    "qid": "Q22101169",
+    "title": "‘Dcard’ launches",
+    "subtitle": "Social networking service",
+    "year": 2011,
+    "fact": "Dcard is an online social media and networking platform based in Taiwan.",
+    "wikipediaSlug": "Dcard",
+    "image": "Dcard_Favicon_x520.png",
+    "pageViews": 794
+  },
+  {
+    "qid": "Q7102897",
+    "title": "‘Odia Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2002,
+    "fact": "The Odia Wikipedia is the Odia edition of Wikipedia.",
+    "wikipediaSlug": "Odia_Wikipedia",
+    "image": "Wikipedia-logo-v2-or.svg",
+    "pageViews": 791
+  },
+  {
+    "qid": "Q58172",
+    "title": "‘Kazakh Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2002,
+    "fact": "The Kazakh Wikipedia is the Kazakh language edition of the free online encyclopedia Wikipedia, founded on 3 June 2002.",
+    "wikipediaSlug": "Kazakh_Wikipedia",
+    "image": "Wikipedia-logo-v2-kk.svg",
+    "pageViews": 790
+  },
+  {
+    "qid": "Q2587255",
+    "title": "‘Sanskrit Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "Sanskrit Wikipedia is the Sanskrit edition of Wikipedia, a free, web-based, collaborative, multilingual encyclopedia project supported by the non-profit Wikimedia Foundation.",
+    "wikipediaSlug": "Sanskrit_Wikipedia",
+    "image": "Wikipedia-logo-v2-sa.svg",
+    "pageViews": 790
+  },
+  {
+    "qid": "Q58679",
+    "title": "‘Serbo-Croatian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2002,
+    "fact": "The Serbo-Croatian Wikipedia is the Serbo-Croatian language version of Wikipedia, the free encyclopedia.",
+    "wikipediaSlug": "Serbo-Croatian_Wikipedia",
+    "image": "Wikipedia-logo-v2-sh.svg",
+    "pageViews": 774
+  },
+  {
+    "qid": "Q1211233",
+    "title": "‘Alemannic Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Alemannic Wikipedia is the Alemannic language edition of the Web-based free-content encyclopedia Wikipedia.",
+    "wikipediaSlug": "Alemannic_Wikipedia",
+    "image": "Wikipedia-logo-v2-als.svg",
+    "pageViews": 769
+  },
+  {
+    "qid": "Q208533",
+    "title": "‘Albanian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Albanian Wikipedia is the Albanian language edition of Wikipedia started on 12 October 2003.",
+    "wikipediaSlug": "Albanian_Wikipedia",
+    "image": "Wikipedia-logo-v2-sq.svg",
+    "pageViews": 754
+  },
+  {
+    "qid": "Q766705",
+    "title": "‘Afrikaans Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2001,
+    "fact": "The Afrikaans Wikipedia is the Afrikaans edition of the Web-based free-content encyclopedia Wikipedia.",
+    "wikipediaSlug": "Afrikaans_Wikipedia",
+    "image": "Wikipedia-logo-v2-af.svg",
+    "pageViews": 748
+  },
+  {
+    "qid": "Q310246",
+    "title": "‘Me2day’ launches",
+    "subtitle": "Social networking service",
+    "year": 2007,
+    "fact": "Me2day (Korean: 미투데이) was a microblogging and social networking service in South Korea acquired and owned by NHN Corporation.",
+    "wikipediaSlug": "Me2day",
+    "image": "Brand_logo_of_me2day.png",
+    "pageViews": 745
+  },
+  {
+    "qid": "Q207260",
+    "title": "‘Basque Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2001,
+    "fact": "The Basque Wikipedia is the Basque language edition of Wikipedia.",
+    "wikipediaSlug": "Basque_Wikipedia",
+    "image": "Wikipedia-logo-v2-eu.svg",
+    "pageViews": 735
+  },
+  {
+    "qid": "Q2776509",
+    "title": "‘43 Things’ launches",
+    "subtitle": "Social networking service",
+    "year": 2005,
+    "fact": "43 Things was a social networking service established as an online goal setting community.",
+    "wikipediaSlug": "43_Things",
+    "image": "Jeff_Bezos_visits_the_Robot_Co-op_in_2005.jpg",
+    "pageViews": 725
+  },
+  {
+    "qid": "Q58251",
+    "title": "‘Azerbaijani Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2002,
+    "fact": "The Azerbaijani Wikipedia is a Wikipedia in the Azerbaijani language, launched in January 2002.",
+    "wikipediaSlug": "Azerbaijani_Wikipedia",
+    "image": "Wikipedia-logo-v2-az_(alt).svg",
+    "pageViews": 718
+  },
+  {
+    "qid": "Q306936",
+    "title": "‘Anobii’ launches",
+    "subtitle": "Social networking service",
+    "year": 2006,
+    "fact": "Anobii is a social networking site aimed at readers.",
+    "wikipediaSlug": "Anobii",
+    "image": "Anobii_Logo.svg",
+    "pageViews": 717
+  },
+  {
+    "qid": "Q3486726",
+    "title": "‘Marathi Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Marathi Wikipedia is the Marathi language edition of Wikipedia, a free and publicly editable online encyclopedia, and was launched on 1 May 2003.",
+    "wikipediaSlug": "Marathi_Wikipedia",
+    "image": "Wikipedia-logo-v2-mr.svg",
+    "pageViews": 703
+  },
+  {
+    "qid": "Q3239456",
+    "title": "‘Min Nan Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Southern Min Wikipedia, also known as Min Nan Wikipedia and Holopedia is the Southern Min edition of Wikipedia, the free encyclopedia.",
+    "wikipediaSlug": "Southern_Min_Wikipedia",
+    "image": "Wikipedia-logo-v2-zh-min-nan.svg",
+    "pageViews": 703
+  },
+  {
+    "qid": "Q3181422",
+    "title": "‘Kannada Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Kannada Wikipedia is the Kannada-language edition of Wikipedia.",
+    "wikipediaSlug": "Kannada_Wikipedia",
+    "image": "Wikipedia-logo-v2-kn.svg",
+    "pageViews": 692
+  },
+  {
+    "qid": "Q1282218",
+    "title": "‘EcuRED’ launches",
+    "subtitle": "Website",
+    "year": 2010,
+    "fact": "EcuRed is a Cuban online encyclopedia built on MediaWiki software.",
+    "wikipediaSlug": "EcuRed",
+    "image": "Logotipo_EcuRed.svg",
+    "pageViews": 692
+  },
+  {
+    "qid": "Q3477935",
+    "title": "‘Javanese Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "The Javanese Wikipedia is the edition of Wikipedia in the Javanese language.",
+    "wikipediaSlug": "Javanese_Wikipedia",
+    "image": "Wikipedia-logo-v2-jv.svg",
+    "pageViews": 689
+  },
+  {
+    "qid": "Q2597810",
+    "title": "‘SUDOC’ launches",
+    "subtitle": "Website",
+    "year": 2001,
+    "fact": "The système universitaire de documentation or SUDOC is a system used by the libraries of French universities and higher education establishments to identify, track and manage the documents in their possession.",
+    "wikipediaSlug": "Syst%C3%A8me_universitaire_de_documentation",
+    "image": "SUDOC_screenshot_2013.png",
+    "pageViews": 686
+  },
+  {
+    "qid": "Q1047829",
+    "title": "‘Bosnian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2002,
+    "fact": "The Bosnian Wikipedia is the Bosnian language version of Wikipedia, hosted by the Wikimedia Foundation.",
+    "wikipediaSlug": "Bosnian_Wikipedia",
+    "image": "Wikipedia-logo-v2-bs.svg",
+    "pageViews": 684
+  },
+  {
+    "qid": "Q841208",
+    "title": "‘Galician Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Galician Wikipedia, also popularly known as Galipedia, is the Galician-language edition of Wikipedia, a free and publicly editable online encyclopedia.",
+    "wikipediaSlug": "Galician_Wikipedia",
+    "image": "Wikipedia-logo-v2-gl.svg",
+    "pageViews": 677
+  },
+  {
+    "qid": "Q1071918",
+    "title": "‘Asturian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "The Asturian Wikipedia is the Asturian language edition of Wikipedia started in July 2004.",
+    "wikipediaSlug": "Asturian_Wikipedia",
+    "image": "Wikipedia-logo-v2-ast_renamed.svg",
+    "pageViews": 674
+  },
+  {
+    "qid": "Q14380",
+    "title": "‘Slovene Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2002,
+    "fact": "The Slovene Wikipedia is the Slovene-language edition of the free online encyclopedia Wikipedia.",
+    "wikipediaSlug": "Slovene_Wikipedia",
+    "image": "Wikipedia-logo-v2-sl.svg",
+    "pageViews": 671
+  },
+  {
+    "qid": "Q8559119",
+    "title": "‘Assamese Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2002,
+    "fact": "The Assamese Wikipedia is the Assamese language edition of Wikipedia, the free encyclopedia.",
+    "wikipediaSlug": "Assamese_Wikipedia",
+    "image": "Wikipedia-logo-v2-as.svg",
+    "pageViews": 660
+  },
+  {
+    "qid": "Q60819",
+    "title": "‘Tatar Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Tatar Wikipedia is the Tatar language edition of Wikipedia.",
+    "wikipediaSlug": "Tatar_Wikipedia",
+    "image": "Wikipedia-logo-v2-tt.svg",
+    "pageViews": 659
+  },
+  {
+    "qid": "Q1147071",
+    "title": "‘Aragonese Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "The Aragonese Wikipedia or Biquipedia is the Aragonese language edition of the Web-based free content encyclopedia Wikipedia.",
+    "wikipediaSlug": "Aragonese_Wikipedia",
+    "image": "Wikipedia-logo-v2-an.svg",
+    "pageViews": 657
+  },
+  {
+    "qid": "Q2263597",
+    "title": "‘Rockstar Games Social Club’ launches",
+    "subtitle": "Social networking service",
+    "year": 2008,
+    "fact": "Rockstar Games, Inc. is an American video game publisher based in New York City.",
+    "wikipediaSlug": "Rockstar_Games_Social_Club",
+    "image": "Rockstar_Games_Logo.svg",
+    "pageViews": 657
+  },
+  {
+    "qid": "Q8075204",
+    "title": "‘Zulu Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Zulu Wikipedia is the Zulu-language edition of Wikipedia, a free, open-content encyclopedia.",
+    "wikipediaSlug": "Zulu_Wikipedia",
+    "image": "Wikipedia-logo-v2-zu.svg",
+    "pageViews": 653
+  },
+  {
+    "qid": "Q595628",
+    "title": "‘Occitan Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Occitan Wikipedia is the Occitan language version of Wikipedia.",
+    "wikipediaSlug": "Occitan_Wikipedia",
+    "image": "Wikipedia-logo-v2-oc.svg",
+    "pageViews": 644
+  },
+  {
+    "qid": "Q60786",
+    "title": "‘Crimean Tatar Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2008,
+    "fact": "The Crimean Tatar Wikipedia is the Crimean Tatar language edition of the free online encyclopedia Wikipedia.",
+    "wikipediaSlug": "Crimean_Tatar_Wikipedia",
+    "image": "Wikipedia-logo-v2-crh.svg",
+    "pageViews": 639
+  },
+  {
+    "qid": "Q7493603",
+    "title": "‘Shelfari’ launches",
+    "subtitle": "Social networking service",
+    "year": 2006,
+    "fact": "Shelfari was a social cataloging website.",
+    "wikipediaSlug": "Shelfari",
+    "image": "Shelfari.png",
+    "pageViews": 627
+  },
+  {
+    "qid": "Q192582",
+    "title": "‘Slovak Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "The Slovak Wikipedia is the edition of Wikipedia in Slovak.",
+    "wikipediaSlug": "Slovak_Wikipedia",
+    "image": "Wikipedia-logo-v2-sk.svg",
+    "pageViews": 618
+  },
+  {
+    "qid": "Q940309",
+    "title": "‘Silesian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2008,
+    "fact": "The Silesian Wikipedia is the Silesian edition of Wikipedia.",
+    "wikipediaSlug": "Silesian_Wikipedia",
+    "image": "Wikipedia-logo-v2-szl.svg",
+    "pageViews": 618
+  },
+  {
+    "qid": "Q23786473",
+    "title": "‘Funk’ launches",
+    "subtitle": "Social networking service",
+    "year": 2016,
+    "fact": "Funk is a German video-on-demand service, operated by the public broadcasters ARD and ZDF.",
+    "wikipediaSlug": "Funk_(service)",
+    "image": "Funk-Logo-2023.svg",
+    "pageViews": 607
+  },
+  {
+    "qid": "Q3302783",
+    "title": "‘BeautifulPeople.com’ launches",
+    "subtitle": "Social networking service",
+    "year": 2002,
+    "fact": "BeautifulPeople.com is an online dating service where applicants to the website are voted in or out by existing members of the opposite sex over a 48-hour period.",
+    "wikipediaSlug": "BeautifulPeople.com",
+    "image": "Screenshot_2025-08-07_at_20-25-54_Online_Dating_Sites_Internet_Dating_Websites_-_BeautifulPeople.png",
+    "pageViews": 589
+  },
+  {
+    "qid": "Q3568069",
+    "title": "‘Samogitian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2006,
+    "fact": "Samogitian Wikipedia is a section of Wikipedia in the Samogitian language.",
+    "wikipediaSlug": "Samogitian_Wikipedia",
+    "image": "Wikipedia-logo-v2-bat-smg.svg",
+    "pageViews": 588
+  },
+  {
+    "qid": "Q1058430",
+    "title": "‘Sicilian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "Wikipedia is a free multilingual wiki-based open-source online encyclopedia edited and maintained by a community of volunteer editors, started on 15 January 2001 as an English-language encyclopedia.",
+    "wikipediaSlug": "Sicilian_Wikipedia",
+    "image": "Most_popular_edition_of_Wikipedia_by_country.svg",
+    "pageViews": 579
+  },
+  {
+    "qid": "Q796764",
+    "title": "‘Museum of the Jewish People at Beit Hatfutsot’ launches",
+    "subtitle": "Website",
+    "year": 1978,
+    "fact": "Anu – Museum of the Jewish People, formerly the Nahum Goldmann Museum of the Jewish Diaspora, is located in Tel Aviv, Israel, at the center of the Tel Aviv University campus opposite Ramat Aviv.",
+    "wikipediaSlug": "Anu_%E2%80%93_Museum_of_the_Jewish_People",
+    "image": "לוגו_על_הבניין.jpg",
+    "pageViews": 567
+  },
+  {
+    "qid": "Q4783991",
+    "title": "‘Chechen Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2005,
+    "fact": "Wikipedia is a free multilingual wiki-based open-source online encyclopedia edited and maintained by a community of volunteer editors, started on 15 January 2001 as an English-language encyclopedia.",
+    "wikipediaSlug": "Chechen_Wikipedia",
+    "image": "Most_popular_edition_of_Wikipedia_by_country.svg",
+    "pageViews": 555
+  },
+  {
+    "qid": "Q226150",
+    "title": "‘Ossetian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2005,
+    "fact": "The Ossetian Wikipedia is the Ossetian-language edition of the free online encyclopedia Wikipedia.",
+    "wikipediaSlug": "Ossetian_Wikipedia",
+    "image": "Wikipedia-logo-v2-os.svg",
+    "pageViews": 545
+  },
+  {
+    "qid": "Q58215",
+    "title": "‘Chuvash Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "The Chuvash Wikipedia is the Chuvash language edition of Wikipedia.",
+    "wikipediaSlug": "Chuvash_Wikipedia",
+    "image": "Wikipedia-logo-v2-cv.svg",
+    "pageViews": 500
+  },
+  {
+    "qid": "Q4584301",
+    "title": "‘BIBSYS’ launches",
+    "subtitle": "Website",
+    "year": 1972,
+    "fact": "BIBSYS is an administrative agency set up and organized by the Ministry of Education and Research in Norway.",
+    "wikipediaSlug": "BIBSYS",
+    "image": "Bibsys_Orio_screenshot.png",
+    "pageViews": 498
+  },
+  {
+    "qid": "Q846871",
+    "title": "‘Breton Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "The Breton Wikipedia is the Breton language version of Wikipedia, run by the Wikimedia Foundation.",
+    "wikipediaSlug": "Breton_Wikipedia",
+    "image": "Wikipedia-logo-v2-br.svg",
+    "pageViews": 493
+  },
+  {
+    "qid": "Q1063116",
+    "title": "‘Meta-Wiki’ launches",
+    "subtitle": "Website",
+    "year": 2001,
+    "fact": "The Wikimedia Foundation, Inc.",
+    "wikipediaSlug": "Meta-Wiki",
+    "image": "Wikimedia_Foundation_logo_-_vertical.svg",
+    "pageViews": 456
+  },
+  {
+    "qid": "Q15801523",
+    "title": "‘Dissernet’ launches",
+    "subtitle": "Online community",
+    "year": 2013,
+    "fact": "Dissernet is a volunteer community network working to clean Russian science of plagiarism.",
+    "wikipediaSlug": "Dissernet",
+    "image": "Logo_for_Dissernet.jpg",
+    "pageViews": 444
+  },
+  {
+    "qid": "Q240304",
+    "title": "‘The European Library’ launches",
+    "subtitle": "Website",
+    "year": 2005,
+    "fact": "The European Library was an Internet service that allows access to the resources of 49 European national libraries and an increasing number of research libraries.",
+    "wikipediaSlug": "European_Library",
+    "image": "European_Library_logo.PNG",
+    "pageViews": 442
+  },
+  {
+    "qid": "Q3180306",
+    "title": "‘Gujarati Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "Gujarati Wikipedia is the Gujarati language version of Wikipedia, an online encyclopedia.",
+    "wikipediaSlug": "Gujarati_Wikipedia",
+    "image": "Wikipedia-logo-v2-gu.svg",
+    "pageViews": 423
+  },
+  {
+    "qid": "Q842341",
+    "title": "‘Macedonian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "Wikipedia is a free multilingual wiki-based open-source online encyclopedia edited and maintained by a community of volunteer editors, started on 15 January 2001 as an English-language encyclopedia.",
+    "wikipediaSlug": "Macedonian_Wikipedia",
+    "image": "Most_popular_edition_of_Wikipedia_by_country.svg",
+    "pageViews": 396
+  },
+  {
+    "qid": "Q4807093",
+    "title": "‘Ask Ubuntu’ launches",
+    "subtitle": "Online community",
+    "year": 2010,
+    "fact": "Ask Ubuntu is a community-driven question and answer website for the Ubuntu operating system.",
+    "wikipediaSlug": "Ask_Ubuntu",
+    "image": "Ask_Ubuntu_logo.svg",
+    "pageViews": 383
+  },
+  {
+    "qid": "Q1200925",
+    "title": "‘National Library of Catalonia’ launches",
+    "subtitle": "Website",
+    "year": 1907,
+    "fact": "The Library of Catalonia is the Catalan national library, located in Barcelona, Catalonia, Spain.",
+    "wikipediaSlug": "Library_of_Catalonia",
+    "image": "Biblioteca_de_Catalunya_-_Entrada_principal.JPG",
+    "pageViews": 381
+  },
+  {
+    "qid": "Q2998037",
+    "title": "‘Mongolian Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "Wikipedia is a free multilingual wiki-based open-source online encyclopedia edited and maintained by a community of volunteer editors, started on 15 January 2001 as an English-language encyclopedia.",
+    "wikipediaSlug": "Mongolian_Wikipedia",
+    "image": "Most_popular_edition_of_Wikipedia_by_country.svg",
+    "pageViews": 359
+  },
+  {
+    "qid": "Q846672",
+    "title": "‘Wikimedia Incubator’ launches",
+    "subtitle": "Website",
+    "year": 2006,
+    "fact": "The Wikimedia Foundation, Inc.",
+    "wikipediaSlug": "Wikimedia_Incubator",
+    "image": "Wikimedia_Foundation_logo_-_vertical.svg",
+    "pageViews": 345
+  },
+  {
+    "qid": "Q159555",
+    "title": "‘Lernu!’ launches",
+    "subtitle": "Website",
+    "year": 2002,
+    "fact": "lernu!",
+    "wikipediaSlug": "Lernu!",
+    "image": "LernuNovaEmblemo.png",
+    "pageViews": 342
+  },
+  {
+    "qid": "Q4295488",
+    "title": "‘Mir Fantastiki’ launches",
+    "subtitle": "Online community",
+    "year": 2003,
+    "fact": "Mir Fantastiki, officially abbreviated as MirF, is a Russian monthly science fiction and fantasy magazine.",
+    "wikipediaSlug": "Mir_Fantastiki",
+    "image": "Mir_Fantastiki_97.jpg",
+    "pageViews": 314
+  },
+  {
+    "qid": "Q4115441",
+    "title": "‘Northern Sami Wikipedia’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "The Northern Sami Wikipedia is the edition of Wikipedia in the Northern Sami language.",
+    "wikipediaSlug": "Northern_S%C3%A1mi_Wikipedia",
+    "image": "Wikipedia-logo-v2-se.png",
+    "pageViews": 255
   }
 ]

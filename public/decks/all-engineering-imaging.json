@@ -58,5 +58,15 @@
     "wikipediaSlug": "Gramophone",
     "image": "Turntable.svg",
     "pageViews": 1628
+  },
+  {
+    "qid": "Q313600",
+    "title": "Still camera is invented",
+    "subtitle": "Invented by Nicéphore Niépce",
+    "year": 1826,
+    "fact": "A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film.",
+    "wikipediaSlug": "Still_camera",
+    "image": "LEI0440_Leica_IIIf_chrom_-_Sn._580566_1951-52-M39_Blitzsynchron_front_view-6531_hf-.jpg",
+    "pageViews": 965
   }
 ]

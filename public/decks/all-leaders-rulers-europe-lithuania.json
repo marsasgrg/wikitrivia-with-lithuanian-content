@@ -88,5 +88,65 @@
     "wikipediaSlug": "Butvydas",
     "image": "Пукувер_Будивид.jpg",
     "pageViews": 1029
+  },
+  {
+    "qid": "Q638655",
+    "title": "Traidenis becomes Grand Duke of Lithuania",
+    "subtitle": null,
+    "year": 1269,
+    "fact": "Traidenis was Grand Duke of Lithuania from 1269 or 1270 until 1282.",
+    "wikipediaSlug": "Traidenis",
+    "image": "Lithuanian_Grand_Duke_Traidenis.JPG",
+    "pageViews": 980
+  },
+  {
+    "qid": "Q557859",
+    "title": "Vytenis becomes Grand Duke of Lithuania",
+    "subtitle": null,
+    "year": 1295,
+    "fact": "Vytenis was Grand Duke of Lithuania from c. 1295 to c.",
+    "wikipediaSlug": "Vytenis",
+    "image": "Vytenis_(99259232).jpg",
+    "pageViews": 956
+  },
+  {
+    "qid": "Q324500",
+    "title": "Wojsiełk becomes Grand Duke of Lithuania",
+    "subtitle": null,
+    "year": 1264,
+    "fact": "Vaišvilkas or Vaišelga was Grand Duke of Lithuania from 1264 until his death in 1267.",
+    "wikipediaSlug": "Vai%C5%A1vilkas",
+    "image": "Orda_Veiselga_monastery.jpg",
+    "pageViews": 950
+  },
+  {
+    "qid": "Q324506",
+    "title": "Treniota becomes Grand Duke of Lithuania",
+    "subtitle": null,
+    "year": 1263,
+    "fact": "Treniota was Grand Duke of Lithuania from 1263 to 1264.",
+    "wikipediaSlug": "Treniota",
+    "image": "Traniata._Транята_(A._Guagnini,_1611).jpg",
+    "pageViews": 927
+  },
+  {
+    "qid": "Q638650",
+    "title": "Butigeidis becomes Grand Duke of Lithuania",
+    "subtitle": null,
+    "year": 1282,
+    "fact": "Butigeidis was Grand Duke of Lithuania from 1285 to 1290 or 1291.",
+    "wikipediaSlug": "Butigeidis",
+    "image": "Budzikid._Будзікід_(M._Barvicki,_1908).jpg",
+    "pageViews": 771
+  },
+  {
+    "qid": "Q557916",
+    "title": "Jaunutis becomes Grand Duke of Lithuania",
+    "subtitle": null,
+    "year": 1341,
+    "fact": "Jaunutis was Grand Duke of Lithuania after his father Gediminas died in 1341 until he was deposed by his elder brothers Algirdas and Kęstutis in 1345.",
+    "wikipediaSlug": "Jaunutis",
+    "image": "Jaŭnut._Яўнут_(A._Tarasievič,_1675).jpg",
+    "pageViews": 728
   }
 ]

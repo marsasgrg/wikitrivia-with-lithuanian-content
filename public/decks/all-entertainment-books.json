@@ -4648,5 +4648,115 @@
     "wikipediaSlug": "An_Antarctic_Mystery",
     "image": "La_esfinge_de_los_hielos.jpg",
     "pageViews": 1017
+  },
+  {
+    "qid": "Q768605",
+    "title": "‘The Castle From Carpathians’ is published",
+    "subtitle": "Book by Jules Verne",
+    "year": 1892,
+    "fact": "The Carpathian Castle is a Gothic novel by Jules Verne first published in 1892.",
+    "wikipediaSlug": "The_Carpathian_Castle",
+    "image": "Chateaucarpathes.jpg",
+    "pageViews": 998
+  },
+  {
+    "qid": "Q1201803",
+    "title": "‘The Adventure of the Reigate Squire’ is published",
+    "subtitle": "Book by Arthur Conan Doyle",
+    "year": 1893,
+    "fact": "\"The Adventure of the Reigate Squire\", also known as \"The Adventure of the Reigate Squires\" and \"The Adventure of the Reigate Puzzle\", is one of the 56 Sherlock Holmes short stories written by Sir Arthur Conan Doyle.",
+    "wikipediaSlug": "The_Adventure_of_the_Reigate_Squire",
+    "image": "The_Adventure_of_the_Reigate_Squire_05.jpg",
+    "pageViews": 982
+  },
+  {
+    "qid": "Q929899",
+    "title": "‘The Begum's Fortune’ is published",
+    "subtitle": "Book by Jules Verne",
+    "year": 1879,
+    "fact": "The Begum's Fortune, also published as The Begum's Millions, is an 1879 novel by Jules Verne, with some utopian elements and other elements that seem clearly dystopian.",
+    "wikipediaSlug": "The_Begum%27s_Fortune",
+    "image": "'The_Begum's_Fortune'_by_Léon_Benett_01.jpg",
+    "pageViews": 923
+  },
+  {
+    "qid": "Q1306869",
+    "title": "‘A Floating City’ is published",
+    "subtitle": "Book by Jules Verne",
+    "year": 1871,
+    "fact": "A Floating City, or sometimes translated The Floating City, is an adventure novel by French writer Jules Verne first published in 1871 in France.",
+    "wikipediaSlug": "A_Floating_City",
+    "image": "'A_Floating_City'_by_Jules_Férat_01.jpg",
+    "pageViews": 857
+  },
+  {
+    "qid": "Q6029482",
+    "title": "‘Infernal Devices’ is published",
+    "subtitle": "Book by Philip Reeve",
+    "year": 2005,
+    "fact": "Infernal Devices is the third of four novels in Philip Reeve's children's series, the Mortal Engines Quartet.",
+    "wikipediaSlug": "Infernal_Devices_(Reeve_novel)",
+    "image": "Infernaldevices1.jpg",
+    "pageViews": 853
+  },
+  {
+    "qid": "Q645024",
+    "title": "‘Mathias Sandorf’ is published",
+    "subtitle": "Book by Jules Verne",
+    "year": 1885,
+    "fact": "Mathias Sandorf is an 1885 adventure book by the French writer Jules Verne first serialized in Le Temps in 1885.",
+    "wikipediaSlug": "Mathias_Sandorf",
+    "image": "Sandorf_hetzel.jpg",
+    "pageViews": 653
+  },
+  {
+    "qid": "Q1169463",
+    "title": "‘The Fur Country’ is published",
+    "subtitle": "Book by Jules Verne",
+    "year": 1873,
+    "fact": "The Fur Country or Seventy Degrees North Latitude is an adventure novel by Jules Verne in The Extraordinary Voyages series, first published in 1873.",
+    "wikipediaSlug": "The_Fur_Country",
+    "image": "Fur_Country_(title).jpg",
+    "pageViews": 600
+  },
+  {
+    "qid": "Q143707",
+    "title": "‘The Child of the Cavern’ is published",
+    "subtitle": "Book by Jules Verne",
+    "year": 1877,
+    "fact": "Les Indes noires is a novel by the French writer Jules Verne, serialized in Le Temps in March and April 1877 and published immediately afterward by Pierre-Jules Hetzel.",
+    "wikipediaSlug": "The_Child_of_the_Cavern",
+    "image": "'The_Child_of_the_Cavern'_by_Jules_Férat_01.jpg",
+    "pageViews": 580
+  },
+  {
+    "qid": "Q959582",
+    "title": "‘The Vanished Diamond’ is published",
+    "subtitle": "Book by Paschal Grousset",
+    "year": 1884,
+    "fact": "The Vanished Diamond, also translated as The Southern Star, is an 1884 French novel credited to Jules Verne, based on an uncredited manuscript by Paschal Grousset.",
+    "wikipediaSlug": "The_Vanished_Diamond",
+    "image": "'The_Vanished_Diamond'_by_Léon_Benett_01.jpg",
+    "pageViews": 442
+  },
+  {
+    "qid": "Q1214433",
+    "title": "‘Tribulations of a Chinaman in China’ is published",
+    "subtitle": "Book by Jules Verne",
+    "year": 1879,
+    "fact": "Tribulations of a Chinaman in China is an adventure novel by Jules Verne, first published in 1879.",
+    "wikipediaSlug": "Tribulations_of_a_Chinaman_in_China",
+    "image": "Verne_-_Les_Tribulations_d’un_Chinois_en_Chine_-_008.png",
+    "pageViews": 413
+  },
+  {
+    "qid": "Q1213684",
+    "title": "‘Eight Hundred Leagues on the Amazon’ is published",
+    "subtitle": "Book by Jules Verne",
+    "year": 1881,
+    "fact": "The Giant Raft is a novel by Jules Verne, published in 1881.",
+    "wikipediaSlug": "The_Giant_Raft",
+    "image": "'Eight_Hundred_Leagues_on_the_Amazon'_by_Léon_Benett_01.jpg",
+    "pageViews": 365
   }
 ]

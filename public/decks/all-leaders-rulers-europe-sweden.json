@@ -368,5 +368,75 @@
     "wikipediaSlug": "Erik_Knutsson",
     "image": "Coin_of_Eric_the_Survivor_of_Sweden_(Eric_X)_c._1210.jpg",
     "pageViews": 1068
+  },
+  {
+    "qid": "Q247223",
+    "title": "Philip of Sweden becomes King of Sweden",
+    "subtitle": null,
+    "year": 1105,
+    "fact": "Philip or Filip was King of Sweden from c. 1105–1110 until 1118.",
+    "wikipediaSlug": "Philip_of_Sweden",
+    "image": "Ingold_the_Younger_of_Sweden_&_Philip_of_Sweden_(1110s)_grave_detail_2009.jpg",
+    "pageViews": 837
+  },
+  {
+    "qid": "Q640407",
+    "title": "Blot-Sweyn becomes King of Sweden",
+    "subtitle": null,
+    "year": 1084,
+    "fact": "Blot-Sweyn was a Swedish king c. 1080, of disputed historicity, who was said to have replaced his Christian brother-in-law Inge as King of Sweden, when Inge had refused to administer the blót at the Temple at Uppsala.",
+    "wikipediaSlug": "Blot-Sweyn",
+    "image": "U_861,_Norsta.jpg",
+    "pageViews": 790
+  },
+  {
+    "qid": "Q471475",
+    "title": "Inge the Younger becomes King of Sweden",
+    "subtitle": null,
+    "year": 1105,
+    "fact": "Inge the Younger was King of Sweden in c. 1110–c. 1125 and probably the youngest son of king Halsten.",
+    "wikipediaSlug": "Inge_the_Younger",
+    "image": "Ingold_the_Younger_of_Sweden_&_Philip_of_Sweden_(1110s)_grave_detail_1905.jpg",
+    "pageViews": 758
+  },
+  {
+    "qid": "Q320989",
+    "title": "John I of Sweden becomes King of Sweden",
+    "subtitle": null,
+    "year": 1216,
+    "fact": "Johan Sverkersson, also known as John I, was King of Sweden from 1216 until his death in 1222.",
+    "wikipediaSlug": "Johan_Sverkersson",
+    "image": "Coin_of_John_I_of_Sweden_c._1220.jpg",
+    "pageViews": 671
+  },
+  {
+    "qid": "Q365072",
+    "title": "Sverker II of Sweden becomes King of Sweden",
+    "subtitle": null,
+    "year": 1195,
+    "fact": "Sverker the Younger, also known as Sverker II or Sverker Karlsson, was King of Sweden from 1195 or 1196 to 1208 when he was defeated in the Battle of Lena by Erik Knutsson.",
+    "wikipediaSlug": "Sverker_the_Younger",
+    "image": "Coin_of_Sweartgar_II_of_Sweden_c._1200.jpg",
+    "pageViews": 507
+  },
+  {
+    "qid": "Q463518",
+    "title": "Canute II of Sweden becomes King of Sweden",
+    "subtitle": null,
+    "year": 1229,
+    "fact": "Knut Långe, also known as Canute II, was King of Sweden from 1229 until his death in 1234.",
+    "wikipediaSlug": "Knut_L%C3%A5nge",
+    "image": "Canute_II_of_Sweden_coin_1905.jpg",
+    "pageViews": 461
+  },
+  {
+    "qid": "Q350330",
+    "title": "Eric XII of Sweden becomes King of Sweden",
+    "subtitle": null,
+    "year": 1356,
+    "fact": "Erik Magnusson, sometimes known as Erik XII, was a Swedish prince who was formally elected King of Sweden in 1344.",
+    "wikipediaSlug": "Erik_Magnusson,_King_of_Sweden",
+    "image": "Eric_of_Sweden_(1339)_seal_1905.jpg",
+    "pageViews": 416
   }
 ]

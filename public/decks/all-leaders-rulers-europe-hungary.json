@@ -518,5 +518,25 @@
     "wikipediaSlug": "Ladislaus_III_of_Hungary",
     "image": "III.László.jpg",
     "pageViews": 1442
+  },
+  {
+    "qid": "Q87044",
+    "title": "Ladislaus II of Hungary becomes Apostolic King of Hungary",
+    "subtitle": null,
+    "year": 1161,
+    "fact": "Ladislaus II or Ladislas II was King of Hungary and Croatia between 1162 and 1163, having usurped the crown from his nephew, Stephen III.",
+    "wikipediaSlug": "Ladislaus_II_of_Hungary",
+    "image": "Chronicon_Pictum_P121_A_korona_elrablása.JPG",
+    "pageViews": 748
+  },
+  {
+    "qid": "Q86946",
+    "title": "Stephen IV of Hungary becomes Apostolic King of Hungary",
+    "subtitle": null,
+    "year": 1163,
+    "fact": "Stephen IV was King of Hungary and Croatia, ascending to the throne between 1163 and 1165, when he usurped the crown of his nephew, Stephen III.",
+    "wikipediaSlug": "Stephen_IV_of_Hungary",
+    "image": "Stephen_IV_of_Hungary.jpg",
+    "pageViews": 675
   }
 ]

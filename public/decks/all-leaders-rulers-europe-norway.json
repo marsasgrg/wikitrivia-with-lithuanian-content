@@ -438,5 +438,25 @@
     "wikipediaSlug": "Magnus_the_Lawmender",
     "image": "Magnus_Haakonsson_(Stavanger_cathedral).jpg",
     "pageViews": 1123
+  },
+  {
+    "qid": "Q365035",
+    "title": "Inge II of Norway becomes King of Norway",
+    "subtitle": null,
+    "year": 1205,
+    "fact": "Inge II was King of Norway from 1204 to 1217.",
+    "wikipediaSlug": "Inge_B%C3%A5rdsson",
+    "image": "Inge_Bårdsson_seal.jpg",
+    "pageViews": 940
+  },
+  {
+    "qid": "Q314595",
+    "title": "Eystein I of Norway becomes King of Norway",
+    "subtitle": null,
+    "year": 1103,
+    "fact": "Eystein Magnusson, also called Eystein I, was King of Norway from 1103 to 1123 together with his half-brothers Sigurd the Crusader and Olaf Magnusson, although since Olaf died before adulthood, only Eystein and Sigurd were effective rulers of the country.",
+    "wikipediaSlug": "Eystein_Magnusson",
+    "image": "Oeystein.jpg",
+    "pageViews": 545
   }
 ]

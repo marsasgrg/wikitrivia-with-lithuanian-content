@@ -288,5 +288,25 @@
     "wikipediaSlug": "Louis-Jules_Trochu",
     "image": "Louis_Jules_Trochu.jpg",
     "pageViews": 1692
+  },
+  {
+    "qid": "Q356032",
+    "title": "Charles Dupuy becomes president of France",
+    "subtitle": null,
+    "year": 1894,
+    "fact": "Charles Alexandre Dupuy was a French statesman, three times prime minister.",
+    "wikipediaSlug": "Charles_Dupuy",
+    "image": "Charles_Dupuy,_French_Prime_minister.jpg",
+    "pageViews": 590
+  },
+  {
+    "qid": "Q459212",
+    "title": "Frédéric François-Marsal becomes president of France",
+    "subtitle": null,
+    "year": 1924,
+    "fact": "Frédéric François-Marsal was a French politician of the Third Republic, who served briefly as Prime Minister in 1924.",
+    "wikipediaSlug": "Fr%C3%A9d%C3%A9ric_Fran%C3%A7ois-Marsal",
+    "image": "Frédéric_François-Marsal_1920_(1).jpg",
+    "pageViews": 384
   }
 ]

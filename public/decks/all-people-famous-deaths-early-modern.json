@@ -1838,5 +1838,25 @@
     "wikipediaSlug": "Christian_Thomasius",
     "image": "Christian_Thomasius.jpg",
     "pageViews": 1117
+  },
+  {
+    "qid": "Q323028",
+    "title": "Edward Waring dies",
+    "subtitle": "English mathematician",
+    "year": 1798,
+    "fact": "Edward Waring was a British mathematician.",
+    "wikipediaSlug": "Edward_Waring",
+    "image": "Edwardwaring.jpg",
+    "pageViews": 970
+  },
+  {
+    "qid": "Q572436",
+    "title": "Anthim the Iberian dies",
+    "subtitle": "Eastern Orthodox theologian",
+    "year": 1716,
+    "fact": "Anthim the Iberian was a Georgian theologian, scholar, calligrapher, philosopher and one of the greatest ecclesiastic figures of Wallachia, led the printing press of the prince of Wallachia, and was Metropolitan of Bucharest in 1708–1715.",
+    "wikipediaSlug": "Anthim_the_Iberian",
+    "image": "Mănăstirea_Antim_(transparent).png",
+    "pageViews": 676
   }
 ]

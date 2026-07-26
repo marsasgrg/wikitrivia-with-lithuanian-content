@@ -1,23 +1,23 @@
 {
   "difficultyCounts": {
-    "easy": 606,
-    "normal": 971,
+    "easy": 608,
+    "normal": 976,
     "hard": 1778
   },
   "id": "all",
-  "minScore": 1000,
+  "minScore": 250,
   "slug": "all",
   "themeHue": 0,
   "title": "All",
   "children": [
     {
       "difficultyCounts": {
-        "easy": 301,
-        "normal": 517,
+        "easy": 303,
+        "normal": 519,
         "hard": 892
       },
       "id": "all-history",
-      "minScore": 1000,
+      "minScore": 250,
       "slug": "history",
       "themeHue": 0,
       "title": "History",
@@ -25,8 +25,8 @@
       "children": [
         {
           "difficultyCounts": {
-            "easy": 170,
-            "normal": 301,
+            "easy": 171,
+            "normal": 303,
             "hard": 533
           },
           "id": "all-history-nations",
@@ -77,8 +77,8 @@
         },
         {
           "difficultyCounts": {
-            "easy": 24,
-            "normal": 45,
+            "easy": 25,
+            "normal": 46,
             "hard": 77
           },
           "id": "all-history-revolts",
@@ -121,12 +121,12 @@
     },
     {
       "difficultyCounts": {
-        "easy": 212,
-        "normal": 421,
+        "easy": 213,
+        "normal": 422,
         "hard": 1050
       },
       "id": "all-leaders",
-      "minScore": 1000,
+      "minScore": 250,
       "slug": "leaders",
       "themeHue": 180,
       "title": "Leaders",
@@ -135,11 +135,11 @@
         {
           "difficultyCounts": {
             "easy": 50,
-            "normal": 89,
+            "normal": 90,
             "hard": 162
           },
           "id": "all-leaders-politicians",
-          "minScore": 1000,
+          "minScore": 250,
           "slug": "politicians",
           "themeHue": 180,
           "title": "Politicians",
@@ -148,11 +148,11 @@
             {
               "difficultyCounts": {
                 "easy": 23,
-                "normal": 42,
+                "normal": 43,
                 "hard": 90
               },
               "id": "all-leaders-politicians-europe",
-              "minScore": 1000,
+              "minScore": 250,
               "slug": "europe",
               "themeHue": 180,
               "title": "Europe",
@@ -226,7 +226,7 @@
                 {
                   "difficultyCounts": {
                     "easy": 2,
-                    "normal": 5,
+                    "normal": 6,
                     "hard": 8
                   },
                   "id": "all-leaders-politicians-europe-spain",
@@ -245,7 +245,7 @@
                 "hard": 81
               },
               "id": "all-leaders-politicians-americas",
-              "minScore": 1000,
+              "minScore": 250,
               "slug": "americas",
               "themeHue": 180,
               "title": "Americas",
@@ -312,7 +312,7 @@
                 "hard": 77
               },
               "id": "all-leaders-politicians-asia",
-              "minScore": 1000,
+              "minScore": 250,
               "slug": "asia",
               "themeHue": 180,
               "title": "Asia",
@@ -379,7 +379,7 @@
                 "hard": 42
               },
               "id": "all-leaders-politicians-oceania",
-              "minScore": 1000,
+              "minScore": 250,
               "slug": "oceania",
               "themeHue": 180,
               "title": "Oceania",
@@ -431,12 +431,12 @@
         },
         {
           "difficultyCounts": {
-            "easy": 173,
-            "normal": 363,
+            "easy": 174,
+            "normal": 364,
             "hard": 960
           },
           "id": "all-leaders-rulers",
-          "minScore": 1000,
+          "minScore": 250,
           "slug": "rulers",
           "themeHue": 180,
           "title": "Rulers",
@@ -444,12 +444,12 @@
           "children": [
             {
               "difficultyCounts": {
-                "easy": 111,
-                "normal": 249,
+                "easy": 112,
+                "normal": 250,
                 "hard": 602
               },
               "id": "all-leaders-rulers-europe",
-              "minScore": 1000,
+              "minScore": 250,
               "slug": "europe",
               "themeHue": 180,
               "title": "Europe",
@@ -815,8 +815,8 @@
                 },
                 {
                   "difficultyCounts": {
-                    "easy": 19,
-                    "normal": 33,
+                    "easy": 20,
+                    "normal": 35,
                     "hard": 52
                   },
                   "id": "all-leaders-rulers-europe-rome",
@@ -901,7 +901,7 @@
                 "hard": 158
               },
               "id": "all-leaders-rulers-middle-east",
-              "minScore": 1000,
+              "minScore": 250,
               "slug": "middle-east",
               "themeHue": 180,
               "title": "Middle East",
@@ -1076,7 +1076,7 @@
                 "hard": 109
               },
               "id": "all-leaders-rulers-africa",
-              "minScore": 1000,
+              "minScore": 250,
               "slug": "africa",
               "themeHue": 180,
               "title": "Africa",
@@ -1158,7 +1158,7 @@
                 "hard": 239
               },
               "id": "all-leaders-rulers-east-asia",
-              "minScore": 1000,
+              "minScore": 250,
               "slug": "east-asia",
               "themeHue": 180,
               "title": "East Asia",
@@ -1225,7 +1225,7 @@
                 "hard": 33
               },
               "id": "all-leaders-rulers-south-asia",
-              "minScore": 1000,
+              "minScore": 250,
               "slug": "south-asia",
               "themeHue": 180,
               "title": "South Asia",
@@ -1281,7 +1281,7 @@
                 "hard": 7
               },
               "id": "all-leaders-rulers-americas",
-              "minScore": 1000,
+              "minScore": 250,
               "slug": "americas",
               "themeHue": 180,
               "title": "Americas",
@@ -1310,12 +1310,12 @@
     },
     {
       "difficultyCounts": {
-        "easy": 228,
-        "normal": 346,
+        "easy": 230,
+        "normal": 347,
         "hard": 502
       },
       "id": "all-people",
-      "minScore": 1000,
+      "minScore": 250,
       "slug": "people",
       "themeHue": 36,
       "title": "People",
@@ -1323,12 +1323,12 @@
       "children": [
         {
           "difficultyCounts": {
-            "easy": 219,
-            "normal": 339,
+            "easy": 221,
+            "normal": 340,
             "hard": 502
           },
           "id": "all-people-famous-deaths",
-          "minScore": 1000,
+          "minScore": 250,
           "slug": "famous-deaths",
           "themeHue": 36,
           "title": "Famous Deaths",
@@ -1362,8 +1362,8 @@
             },
             {
               "difficultyCounts": {
-                "easy": 44,
-                "normal": 79,
+                "easy": 45,
+                "normal": 80,
                 "hard": 135
               },
               "id": "all-people-famous-deaths-early-modern",
@@ -1388,7 +1388,7 @@
             },
             {
               "difficultyCounts": {
-                "easy": 65,
+                "easy": 66,
                 "normal": 73,
                 "hard": 77
               },
@@ -1408,7 +1408,7 @@
             "hard": 71
           },
           "id": "all-people-nobel-laureates",
-          "minScore": 1000,
+          "minScore": 250,
           "slug": "nobel-laureates",
           "themeHue": 36,
           "title": "Nobel Laureates",
@@ -1488,11 +1488,11 @@
     {
       "difficultyCounts": {
         "easy": 147,
-        "normal": 199,
+        "normal": 202,
         "hard": 296
       },
       "id": "all-entertainment",
-      "minScore": 1000,
+      "minScore": 250,
       "slug": "entertainment",
       "themeHue": 216,
       "title": "Entertainment",
@@ -1527,7 +1527,7 @@
         {
           "difficultyCounts": {
             "easy": 91,
-            "normal": 137,
+            "normal": 140,
             "hard": 187
           },
           "id": "all-entertainment-books",
@@ -1683,7 +1683,7 @@
         "hard": 349
       },
       "id": "all-art",
-      "minScore": 1000,
+      "minScore": 250,
       "slug": "art",
       "themeHue": 72,
       "title": "Art",
@@ -1737,7 +1737,7 @@
         "hard": 94
       },
       "id": "all-technology",
-      "minScore": 1000,
+      "minScore": 250,
       "slug": "technology",
       "themeHue": 252,
       "title": "Technology",
@@ -1750,7 +1750,7 @@
             "hard": 59
           },
           "id": "all-technology-computing",
-          "minScore": 1000,
+          "minScore": 250,
           "slug": "computing",
           "themeHue": 252,
           "title": "Computing",
@@ -1885,12 +1885,12 @@
     },
     {
       "difficultyCounts": {
-        "easy": 111,
-        "normal": 132,
+        "easy": 112,
+        "normal": 133,
         "hard": 168
       },
       "id": "all-engineering",
-      "minScore": 1000,
+      "minScore": 250,
       "slug": "engineering",
       "themeHue": 108,
       "title": "Engineering",
@@ -1911,7 +1911,7 @@
         },
         {
           "difficultyCounts": {
-            "easy": 83,
+            "easy": 86,
             "normal": 100,
             "hard": 114
           },
@@ -2005,7 +2005,7 @@
         {
           "difficultyCounts": {
             "easy": 1,
-            "normal": 2,
+            "normal": 3,
             "hard": 4
           },
           "id": "all-engineering-imaging",
@@ -2039,7 +2039,7 @@
         "hard": 729
       },
       "id": "all-architecture",
-      "minScore": 1000,
+      "minScore": 250,
       "slug": "architecture",
       "themeHue": 288,
       "title": "Landmarks",
@@ -2102,11 +2102,11 @@
     {
       "difficultyCounts": {
         "easy": 69,
-        "normal": 102,
+        "normal": 103,
         "hard": 144
       },
       "id": "all-sport",
-      "minScore": 1000,
+      "minScore": 250,
       "slug": "sport",
       "themeHue": 144,
       "title": "Sport",
@@ -2115,7 +2115,7 @@
         {
           "difficultyCounts": {
             "easy": 50,
-            "normal": 75,
+            "normal": 76,
             "hard": 116
           },
           "id": "all-sport-teams",
@@ -2147,7 +2147,7 @@
         "hard": 198
       },
       "id": "all-business",
-      "minScore": 1000,
+      "minScore": 250,
       "slug": "business",
       "themeHue": 324,
       "title": "Business",

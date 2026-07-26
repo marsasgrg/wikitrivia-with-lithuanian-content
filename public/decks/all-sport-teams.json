@@ -2968,5 +2968,45 @@
     "wikipediaSlug": "SU_Agen_Lot-et-Garonne",
     "image": "LogoSUAgen2020.svg",
     "pageViews": 1278
+  },
+  {
+    "qid": "Q726423",
+    "title": "Denver Nuggets is founded",
+    "subtitle": "NBA franchise",
+    "year": 1948,
+    "fact": "The Denver Nuggets were a professional basketball team based in Denver.",
+    "wikipediaSlug": "Denver_Nuggets_(1948%E2%80%931950)",
+    "image": "The_logo_of_the_original_Denver_Nuggets.gif",
+    "pageViews": 779
+  },
+  {
+    "qid": "Q172721",
+    "title": "Mercedes F1 Team is founded",
+    "subtitle": "Formula 1 team",
+    "year": 1964,
+    "fact": "Mercedes-Benz, a German automotive brand of the Mercedes-Benz Group, has been involved in Formula One as both team owner and engine manufacturer for various periods since 1954.",
+    "wikipediaSlug": "Mercedes_AMG_F1",
+    "image": "Mercedes-AMG_Petronas_F1_Team_logo_(2026).svg",
+    "pageViews": 739
+  },
+  {
+    "qid": "Q172483",
+    "title": "Vel's Parnelli Jones Racing is founded",
+    "subtitle": "Formula 1 team",
+    "year": 1969,
+    "fact": "Vel's Parnelli Jones Racing, commonly referred to simply as Parnelli or VPJ, was a motor racing constructor and team from the United States.",
+    "wikipediaSlug": "Vel%27s_Parnelli_Jones_Racing",
+    "image": "Vel's_Parnelli_Jones_car_badge.jpg",
+    "pageViews": 738
+  },
+  {
+    "qid": "Q1419543",
+    "title": "First Racing is founded",
+    "subtitle": "Formula 1 team",
+    "year": 1987,
+    "fact": "First Racing was an Italian motor racing team founded by Lamberto Leoni, which competed in International Formula 3000 from 1987 to 1991 and the Italian Formula 3 Championship in 1990.",
+    "wikipediaSlug": "First_Racing",
+    "image": "1990_Life_190.jpg",
+    "pageViews": 551
   }
 ]

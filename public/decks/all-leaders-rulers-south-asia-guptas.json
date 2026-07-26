@@ -78,5 +78,25 @@
     "wikipediaSlug": "Ramagupta",
     "image": "ChandraguptaIIOnHorse.jpg",
     "pageViews": 1280
+  },
+  {
+    "qid": "Q7261618",
+    "title": "Purugupta becomes Gupta emperor",
+    "subtitle": null,
+    "year": 467,
+    "fact": "Purugupta was an emperor of the Gupta dynasty in northern India.",
+    "wikipediaSlug": "Purugupta",
+    "image": "ChandraguptaIIOnHorse.jpg",
+    "pageViews": 963
+  },
+  {
+    "qid": "Q10314769",
+    "title": "Kumaragupta II becomes Gupta emperor",
+    "subtitle": null,
+    "year": 473,
+    "fact": "Kumaragupta II Kramaditya was an emperor of the Gupta Empire.",
+    "wikipediaSlug": "Kumaragupta_II",
+    "image": "Kumaragupta_II_Kramaditya_Circa_530-540_CE.jpg",
+    "pageViews": 819
   }
 ]

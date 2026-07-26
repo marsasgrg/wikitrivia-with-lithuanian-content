@@ -178,5 +178,25 @@
     "wikipediaSlug": "Charles,_Prince_of_Viana",
     "image": "Princep_carles_de_viana.jpg",
     "pageViews": 1056
+  },
+  {
+    "qid": "Q351859",
+    "title": "Theobald II of Navarre becomes sovereign of Navarre",
+    "subtitle": null,
+    "year": 1253,
+    "fact": "Theobald II was King of Navarre and also, as Theobald V, Count of Champagne and Brie, from 1253 until his death.",
+    "wikipediaSlug": "Theobald_II_of_Navarre",
+    "image": "Theobald_II_of_Navarre.jpg",
+    "pageViews": 957
+  },
+  {
+    "qid": "Q363572",
+    "title": "Francis Phoebus of Navarre becomes sovereign of Navarre",
+    "subtitle": null,
+    "year": 1479,
+    "fact": "Francis Phoebus was King of Navarre (1479–1483), Viscount of Bearn, and Count of Foix (1472).",
+    "wikipediaSlug": "Francis_Phoebus",
+    "image": "Francois_Febus.jpg",
+    "pageViews": 832
   }
 ]

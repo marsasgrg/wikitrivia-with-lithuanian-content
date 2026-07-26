@@ -188,5 +188,55 @@
     "wikipediaSlug": "Menas_of_Ethiopia",
     "image": "Menas_of_Ethiopia.jpg",
     "pageViews": 1078
+  },
+  {
+    "qid": "Q735638",
+    "title": "Iyasu II becomes Emperor of Ethiopia",
+    "subtitle": null,
+    "year": 1730,
+    "fact": "Iyasu II, throne name Alem Sagad, was Emperor of Ethiopia from 1730 to 1755, and a member of the Solomonic dynasty.",
+    "wikipediaSlug": "Iyasu_II",
+    "image": "Iyasu_II_of_Ethiopia_and_Mentewab.png",
+    "pageViews": 976
+  },
+  {
+    "qid": "Q887998",
+    "title": "Yagbe'u Seyon becomes Emperor of Ethiopia",
+    "subtitle": null,
+    "year": 1285,
+    "fact": "Yagbe'u Seyon, throne name Salomon, was Emperor of Ethiopia from 18 June 1285 to 1294, and a member of the Solomonic dynasty.",
+    "wikipediaSlug": "Yagbe%27u_Seyon",
+    "image": "YagbeaSionBattlingAdaSultan.JPG",
+    "pageViews": 892
+  },
+  {
+    "qid": "Q343708",
+    "title": "Iyoas I becomes Emperor of Ethiopia",
+    "subtitle": null,
+    "year": 1755,
+    "fact": "Iyoas I, throne name Adyam Sagad was Emperor of Ethiopia from 27 June 1755 to 7 May 1769, and a member of the Solomonic dynasty.",
+    "wikipediaSlug": "Iyoas_I",
+    "image": "Iyoas_I_of_Ethiopia.jpg",
+    "pageViews": 875
+  },
+  {
+    "qid": "Q732878",
+    "title": "Bakaffa becomes Emperor of Ethiopia",
+    "subtitle": null,
+    "year": 1721,
+    "fact": "Bakaffa birth name: Missah; throne name Aṣma Giyorgis, later Masih Sagad was Emperor of Ethiopia from 18 May 1721 to 19 September 1730, and a member of the Solomonic dynasty.",
+    "wikipediaSlug": "Bakaffa",
+    "image": "Bakaffa_I_of_Ethiopia.jpg",
+    "pageViews": 841
+  },
+  {
+    "qid": "Q887840",
+    "title": "Dawit III becomes Emperor of Ethiopia",
+    "subtitle": null,
+    "year": 1716,
+    "fact": "Dawit III, throne name Adbar Sagad, also known as Dawit the Singer was Emperor of Ethiopia from 8 February 1716 to 18 May 1721, and a member of the Solomonic dynasty.",
+    "wikipediaSlug": "Dawit_III",
+    "image": "FasilGhebbi6.jpg",
+    "pageViews": 395
   }
 ]

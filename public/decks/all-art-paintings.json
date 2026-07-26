@@ -4098,5 +4098,715 @@
     "wikipediaSlug": "After_the_Deluge_(painting)",
     "image": "Watts_–_After_the_Deluge.jpg",
     "pageViews": 1000
+  },
+  {
+    "qid": "Q877191",
+    "title": "‘The Three Philosophers’ is painted",
+    "subtitle": "Painting by Giorgione",
+    "year": 1500,
+    "fact": "The Three Philosophers is an oil painting on canvas attributed to the Italian High Renaissance artist Giorgione.",
+    "wikipediaSlug": "The_Three_Philosophers",
+    "image": "Giorgione_-_Three_Philosophers_-_Google_Art_Project.jpg",
+    "pageViews": 993
+  },
+  {
+    "qid": "Q2267440",
+    "title": "‘A Young Woman seated at a Virginal’ is painted",
+    "subtitle": "Painting by Johannes Vermeer",
+    "year": 1670,
+    "fact": "Lady Seated at a Virginal, also known as Young Woman Seated at a Virginal, is a genre painting created by the Dutch Golden Age painter Johannes Vermeer in about 1670–1672 and now in the National Gallery, London.",
+    "wikipediaSlug": "Lady_Seated_at_a_Virginal",
+    "image": "Lady_Seated_at_a_Virginal,_Vermeer,_The_National_Gallery,_London.jpg",
+    "pageViews": 978
+  },
+  {
+    "qid": "Q4660880",
+    "title": "‘A Young Woman Seated at the Virginals’ is painted",
+    "subtitle": "Painting by Johannes Vermeer",
+    "year": 1670,
+    "fact": "A Young Woman Seated at the Virginals is a painting by Johannes Vermeer, though this was for a long time widely questioned.",
+    "wikipediaSlug": "A_Young_Woman_Seated_at_the_Virginals",
+    "image": "Vermeer_-_A_young_Woman_seated_at_the_Virginals.jpg",
+    "pageViews": 929
+  },
+  {
+    "qid": "Q3137278",
+    "title": "‘Madame Moitessier’ is painted",
+    "subtitle": "Painting by Jean-Auguste-Dominique Ingres",
+    "year": 1856,
+    "fact": "Madame Moitessier is a portrait of Marie-Clotilde-Inès Moitessier begun in 1844 and completed in 1856 by Jean-Auguste-Dominique Ingres.",
+    "wikipediaSlug": "Portrait_of_Madame_Moitessier",
+    "image": "Dominique_Ingres_-_Mme_Moitessier.jpg",
+    "pageViews": 913
+  },
+  {
+    "qid": "Q22329831",
+    "title": "‘Self-portrait without beard’ is painted",
+    "subtitle": "Painting by Vincent van Gogh",
+    "year": 1889,
+    "fact": "Self-portrait without beard, also known as Peasant of Zundert, is an 1889 oil on canvas painting by the Post-Impressionist artist Vincent van Gogh.",
+    "wikipediaSlug": "Self-portrait_without_beard",
+    "image": "Vincent_Willem_van_Gogh_102.jpg",
+    "pageViews": 907
+  },
+  {
+    "qid": "Q1114718",
+    "title": "‘Dance in the Country’ is painted",
+    "subtitle": "Painting by Pierre-Auguste Renoir",
+    "year": 1883,
+    "fact": "Dance in the Country is an 1883 oil painting by French artist Pierre-Auguste Renoir.",
+    "wikipediaSlug": "Dance_in_the_Country",
+    "image": "Pierre_Auguste_Renoir_-_Country_Dance_-_Google_Art_Project.jpg",
+    "pageViews": 905
+  },
+  {
+    "qid": "Q512971",
+    "title": "‘The Shepherdess’ is painted",
+    "subtitle": "Painting by William-Adolphe Bouguereau",
+    "year": 1889,
+    "fact": "The Shepherdess, also known as The Little Shepherdess, is a painting by William-Adolphe Bouguereau completed in 1889.",
+    "wikipediaSlug": "The_Shepherdess",
+    "image": "William-Adolphe_Bouguereau_(1825-1905)_-_The_Shepherdess_(1889).jpg",
+    "pageViews": 893
+  },
+  {
+    "qid": "Q2400652",
+    "title": "‘The Wayfarer’ is painted",
+    "subtitle": "Painting by Hieronymus Bosch",
+    "year": 1500,
+    "fact": "The Wayfarer is an oil-on-panel painting by the Early Netherlandish artist Hieronymus Bosch, created c.",
+    "wikipediaSlug": "The_Wayfarer_(painting)",
+    "image": "Jheronimus_Bosch_-_The_Pedlar_-_Google_Art_Project.jpg",
+    "pageViews": 890
+  },
+  {
+    "qid": "Q1087244",
+    "title": "‘Christ and the Woman Taken in Adultery’ is painted",
+    "subtitle": "Painting by Pieter Brueghel the Elder",
+    "year": 1565,
+    "fact": "Christ and the Woman Taken in Adultery is a small panel painting in grisaille by the Netherlandish Renaissance printmaker and painter Pieter Bruegel the Elder.",
+    "wikipediaSlug": "Christ_and_the_Woman_Taken_in_Adultery_(Bruegel)",
+    "image": "Pieter_Bruegel_the_Elder_-_Christ_and_the_Woman_Taken_in_Adultery_-_WGA03469.jpg",
+    "pageViews": 874
+  },
+  {
+    "qid": "Q979440",
+    "title": "‘Annunciation with Saints Maxima and Ansanus’ is painted",
+    "subtitle": "Painting by Simone Martini",
+    "year": 1333,
+    "fact": "The Annunciation with Saint Margaret and Saint Ansanus is a painting by the Italian Gothic artists Simone Martini and Lippo Memmi, now housed in the Uffizi Gallery in Florence, Italy.",
+    "wikipediaSlug": "Annunciation_with_Saint_Margaret_and_Saint_Ansanus",
+    "image": "Simone_Martini_—_Annunciation_with_St._Margaret_and_St._Ansanus.jpg",
+    "pageViews": 858
+  },
+  {
+    "qid": "Q3556817",
+    "title": "‘Diana leaving her Bath’ is painted",
+    "subtitle": "Painting by François Boucher",
+    "year": 1742,
+    "fact": "Diana Bathing or Diana Getting out of her Bath is an oil-on-canvas painting by French artist François Boucher, created in 1742.",
+    "wikipediaSlug": "Diana_Bathing_(Boucher)",
+    "image": "François_Boucher_-_Diana_Resting_after_her_Bath,_1742.jpg",
+    "pageViews": 856
+  },
+  {
+    "qid": "Q23922",
+    "title": "‘Woman with a Mirror’ is painted",
+    "subtitle": "Painting by Titian",
+    "year": 1515,
+    "fact": "Woman with a Mirror is an oil on canvas painting by Titian, dated to c.",
+    "wikipediaSlug": "Woman_with_a_Mirror",
+    "image": "Portrait_d'une_Femme_à_sa_Toilette,_by_Titian,_from_C2RMF_retouched.jpg",
+    "pageViews": 833
+  },
+  {
+    "qid": "Q2783729",
+    "title": "‘Lise with a Parasol’ is painted",
+    "subtitle": "Painting by Pierre-Auguste Renoir",
+    "year": 1867,
+    "fact": "Lise with a Parasol is an oil on canvas painting by French artist Pierre-Auguste Renoir, created in 1867 during his early Salon period.",
+    "wikipediaSlug": "Lise_with_a_Parasol",
+    "image": "Lise_with_a_Parasol.jpg",
+    "pageViews": 823
+  },
+  {
+    "qid": "Q1293985",
+    "title": "‘Young Ladies Beside the Seine’ is painted",
+    "subtitle": "Painting by Gustave Courbet",
+    "year": 1857,
+    "fact": "Young Ladies Beside the Seine (Summer) (French - Les Demoiselles des bords de la Seine (été)) is an oil-on-canvas painting by the French Realist Gustave Courbet, created between late 1856 and early 1857.",
+    "wikipediaSlug": "Young_Ladies_Beside_the_Seine_(Summer)",
+    "image": "Gustave_Courbet_027.jpg",
+    "pageViews": 818
+  },
+  {
+    "qid": "Q698219",
+    "title": "‘The Gloomy Day’ is painted",
+    "subtitle": "Painting by Pieter Brueghel the Elder",
+    "year": 1565,
+    "fact": "The Gloomy Day is a panel painting in oils by the Netherlandish Renaissance artist Pieter Bruegel the Elder, painted in 1565.",
+    "wikipediaSlug": "The_Gloomy_Day",
+    "image": "The_Gloomy_Day_(Bruegel).jpg",
+    "pageViews": 814
+  },
+  {
+    "qid": "Q2046100",
+    "title": "‘Flora’ is painted",
+    "subtitle": "Painting by Titian",
+    "year": 1517,
+    "fact": "Flora is an oil painting by Italian late Renaissance painter Titian, dated to around 1515 and now held at the Uffizi Gallery in Florence.",
+    "wikipediaSlug": "Flora_(Titian)",
+    "image": "Flora,_por_Tiziano.jpg",
+    "pageViews": 812
+  },
+  {
+    "qid": "Q3739396",
+    "title": "‘Mistress and Maid’ is painted",
+    "subtitle": "Painting by Johannes Vermeer",
+    "year": 1666,
+    "fact": "Mistress and Maid is an oil-on-canvas painting produced by Johannes Vermeer c.",
+    "wikipediaSlug": "Mistress_and_Maid",
+    "image": "Vermeer_Lady_Maidservant_Holding_Letter.jpg",
+    "pageViews": 808
+  },
+  {
+    "qid": "Q532486",
+    "title": "‘Judith and Her Maidservant’ is painted",
+    "subtitle": "Painting by Artemisia Gentileschi",
+    "year": 1610,
+    "fact": "Judith and her Maidservant is a c. 1615 painting by the Italian baroque artist Artemisia Gentileschi.",
+    "wikipediaSlug": "Judith_and_Her_Maidservant_(Artemisia_Gentileschi,_Florence)",
+    "image": "Gentileschi_judith1.jpg",
+    "pageViews": 806
+  },
+  {
+    "qid": "Q2610709",
+    "title": "‘Madonna of Foligno’ is painted",
+    "subtitle": "Painting by Raphael",
+    "year": 1511,
+    "fact": "The Madonna of Foligno is a painting by the Italian High Renaissance painter Raphael, executed c.",
+    "wikipediaSlug": "Madonna_of_Foligno",
+    "image": "Madonna_di_Foligno_(Raphael)_September_2015-1a.jpg",
+    "pageViews": 794
+  },
+  {
+    "qid": "Q1213437",
+    "title": "‘The Hay Harvest (early summer June/July)’ is painted",
+    "subtitle": "Painting by Pieter Brueghel the Elder",
+    "year": 1565,
+    "fact": "The Hay Harvest, is an oil painting on wood panel by the Netherlandish Renaissance artist Pieter Bruegel the Elder, executed in 1565.",
+    "wikipediaSlug": "The_Hay_Harvest",
+    "image": "The_haymaking,_by_Pieter_Bruegel_(I).jpg",
+    "pageViews": 790
+  },
+  {
+    "qid": "Q1251572",
+    "title": "‘Romeo and Juliet: the Tomb Scene’ is painted",
+    "subtitle": "Painting by Joseph Wright of Derby",
+    "year": 1790,
+    "fact": "Romeo and Juliet: the Tomb Scene is a painting by Joseph Wright of Derby, completed by 1790, exhibited in 1790 and 1791, shown in the Derby Exhibition of 1839 in the Mechanics' Institute, and now displayed in Derby Museum and Art Gallery.",
+    "wikipediaSlug": "Romeo_and_Juliet:_the_Tomb_Scene",
+    "image": "Joseph_Wright_of_Derby._Romeo_and_Juliet._The_Tomb_Scene._exhibited_1790_and_1791.jpg",
+    "pageViews": 782
+  },
+  {
+    "qid": "Q552040",
+    "title": "‘The Dream of a Knight’ is painted",
+    "subtitle": "Painting by Raphael",
+    "year": 1504,
+    "fact": "The Vision of a Knight, also called The Dream of Scipio or Allegory, is a small egg tempera painting on poplar by the Italian Renaissance artist Raphael, finished in 1503–1504.",
+    "wikipediaSlug": "Vision_of_a_Knight_(Raphael)",
+    "image": "RAFAEL_-_Sueño_del_Caballero_(National_Gallery_de_Londres,_1504._Óleo_sobre_tabla,_17_x_17_cm).jpg",
+    "pageViews": 776
+  },
+  {
+    "qid": "Q2628761",
+    "title": "‘Adoration of the Magi’ is painted",
+    "subtitle": "Painting by Albrecht Dürer",
+    "year": 1504,
+    "fact": "The Adoration of the Magi is a panel painting by Albrecht Dürer (1471-1528), produced under commission by Frederick the Wise for the altar of the Schlosskirche in Wittenberg.",
+    "wikipediaSlug": "Adoration_of_the_Magi_(D%C3%BCrer)",
+    "image": "Albrecht_Dürer_-_L'Adoration_des_mages.jpg",
+    "pageViews": 772
+  },
+  {
+    "qid": "Q1659469",
+    "title": "‘In the Summer’ is painted",
+    "subtitle": "Painting by Pierre-Auguste Renoir",
+    "year": 1868,
+    "fact": "In Summer is an 1868 oil-on-canvas painting by Pierre-Auguste Renoir, a portrait of Lise Tréhot aged about 20.",
+    "wikipediaSlug": "In_Summer_(Renoir)",
+    "image": "Auguste_Renoir_-_En_été_-_La_bohémienne_-_Google_Art_ProjectFXD.jpg",
+    "pageViews": 763
+  },
+  {
+    "qid": "Q2035209",
+    "title": "‘Madonna del Granduca’ is painted",
+    "subtitle": "Painting by Raphael",
+    "year": 1506,
+    "fact": "The Madonna del Granduca is a Madonna painting by the Italian renaissance artist Raphael.",
+    "wikipediaSlug": "Madonna_del_Granduca",
+    "image": "Madona_del_gran_duque,_por_Rafael.jpg",
+    "pageViews": 752
+  },
+  {
+    "qid": "Q650635",
+    "title": "‘A Militiaman Holding a Berkemeyer, Known as the ‘Merry Drinker’’ is painted",
+    "subtitle": "Painting by Frans Hals",
+    "year": 1629,
+    "fact": "The Merry Drinker is an oil-on-canvas painting by Dutch artist Frans Hals, from c.",
+    "wikipediaSlug": "The_Merry_Drinker",
+    "image": "Frans_Hals_-_The_Merry_Drinker_-_WGA11095.jpg",
+    "pageViews": 737
+  },
+  {
+    "qid": "Q2528106",
+    "title": "‘Portrait of Bindo Altoviti’ is painted",
+    "subtitle": "Painting by Raphael",
+    "year": 1515,
+    "fact": "The Portrait of Bindo Altoviti is a painting finished around 1515 by the Italian High Renaissance painter Raphael.",
+    "wikipediaSlug": "Portrait_of_Bindo_Altoviti",
+    "image": "Raffaello_Sanzio_-_Ritratto_di_Bindo_Altoviti.jpg",
+    "pageViews": 719
+  },
+  {
+    "qid": "Q2354033",
+    "title": "‘Religious Procession in Kursk Province’ is painted",
+    "subtitle": "Painting by Ilya Repin",
+    "year": 1880,
+    "fact": "Religious Procession in Kursk Governorate is a large oil on canvas painting by Russian realist artist Ilya Repin (1844–1930).",
+    "wikipediaSlug": "Religious_Procession_in_Kursk_Governorate",
+    "image": "Procesión_de_Pascua_en_la_región_de_Kursk,_por_Iliá_Repin.jpg",
+    "pageViews": 718
+  },
+  {
+    "qid": "Q14866847",
+    "title": "‘Sunset at Montmajour’ is painted",
+    "subtitle": "Painting by Vincent van Gogh",
+    "year": 1888,
+    "fact": "Sunset at Montmajour is a landscape in oils painted by the Dutch artist Vincent van Gogh on 4 July 1888.",
+    "wikipediaSlug": "Sunset_at_Montmajour",
+    "image": "Sunset_at_Montmajour_1888_Van_Gogh.jpg",
+    "pageViews": 717
+  },
+  {
+    "qid": "Q2841473",
+    "title": "‘Bridal Procession on the Hardangerfjord’ is painted",
+    "subtitle": "Painting by Adolph Tidemand",
+    "year": 1848,
+    "fact": "Bridal Procession on the Hardanger is an 1848 oil painting by Hans Gude and Adolph Tidemand.",
+    "wikipediaSlug": "Bridal_Procession_on_the_Hardangerfjord",
+    "image": "Adolph_Tidemand_&_Hans_Gude_-_Bridal_Procession_on_the_Hardangerfjord_-_Google_Art_Project.jpg",
+    "pageViews": 710
+  },
+  {
+    "qid": "Q3772184",
+    "title": "‘The Beggars’ is painted",
+    "subtitle": "Painting by Pieter Brueghel the Elder",
+    "year": 1568,
+    "fact": "The Beggars or The Cripples is an oil-on-panel by the Netherlandish Renaissance artist Pieter Bruegel the Elder, painted in 1568.",
+    "wikipediaSlug": "The_Beggars",
+    "image": "Les_Mendiants_-_Pieter_Brueghel_l'Ancien_-_Musée_du_Louvre_Peintures_RF_730.jpg",
+    "pageViews": 708
+  },
+  {
+    "qid": "Q684935",
+    "title": "‘A Girl Asleep’ is painted",
+    "subtitle": "Painting by Johannes Vermeer",
+    "year": 1657,
+    "fact": "A Girl Asleep, also known as A Woman Asleep, A Woman Asleep at Table, and A Maid Asleep, is a painting by the Dutch master Johannes Vermeer, created c.",
+    "wikipediaSlug": "A_Girl_Asleep",
+    "image": "Vermeer_young_women_sleeping.jpg",
+    "pageViews": 703
+  },
+  {
+    "qid": "Q571416",
+    "title": "‘Rubens and Isabella Brant in the honeysuckle bower’ is painted",
+    "subtitle": "Painting by Peter Paul Rubens",
+    "year": 1609,
+    "fact": "The Honeysuckle Bower is a self-portrait of the Flemish Baroque painter Peter Paul Rubens and his first wife Isabella Brant, painted c.",
+    "wikipediaSlug": "Honeysuckle_Bower",
+    "image": "Peter_Paul_Rubens_-_Rubens_and_Isabella_Brant_in_the_honeysuckle_bower.jpg",
+    "pageViews": 693
+  },
+  {
+    "qid": "Q2561558",
+    "title": "‘The Wheat Sifters’ is painted",
+    "subtitle": "Painting by Gustave Courbet",
+    "year": 1854,
+    "fact": "The Wheat Sifters is an oil-on-canvas painting created in 1854 by the French Realist painter Gustave Courbet in his hometown of Ornans.",
+    "wikipediaSlug": "The_Wheat_Sifters",
+    "image": "Gustave_Courbet_014.jpg",
+    "pageViews": 688
+  },
+  {
+    "qid": "Q2529703",
+    "title": "‘Portrait of Emile Zola’ is painted",
+    "subtitle": "Painting by Édouard Manet",
+    "year": 1868,
+    "fact": "Portrait of Émile Zola is a painting of Émile Zola by Édouard Manet.",
+    "wikipediaSlug": "Portrait_of_Emile_Zola",
+    "image": "Edouard_Manet_049.jpg",
+    "pageViews": 686
+  },
+  {
+    "qid": "Q1122842",
+    "title": "‘The Magpie on the Gallows’ is painted",
+    "subtitle": "Painting by Pieter Brueghel the Elder",
+    "year": 1568,
+    "fact": "The Magpie on the Gallows is a 1568 oil-on-wood panel painting by the Netherlandish Renaissance artist Pieter Bruegel the Elder.",
+    "wikipediaSlug": "The_Magpie_on_the_Gallows",
+    "image": "Die_Elster_auf_dem_Galgen.jpg",
+    "pageViews": 680
+  },
+  {
+    "qid": "Q5962062",
+    "title": "‘Dawn’ is painted",
+    "subtitle": "Painting by William-Adolphe Bouguereau",
+    "year": 1881,
+    "fact": "Dawn, also known as the Girl with a Lily, is an oil-on-canvas painting created in 1881 by the French artist William-Adolphe Bouguereau.",
+    "wikipediaSlug": "Dawn_(Bouguereau)",
+    "image": "L'Aurore_(Dawn)_-_William-Adolphe_Bouguereau_-_Google_Cultural_Institute.jpg",
+    "pageViews": 675
+  },
+  {
+    "qid": "Q2624258",
+    "title": "‘A Young Woman Standing at a Virginal’ is painted",
+    "subtitle": "Painting by Johannes Vermeer",
+    "year": 1670,
+    "fact": "Lady Standing at a Virginal is a genre painting created by the Dutch artist Johannes Vermeer in about 1670–1672, now in the National Gallery, London.",
+    "wikipediaSlug": "Lady_Standing_at_a_Virginal",
+    "image": "Jan_Vermeer_van_Delft_-_Lady_Standing_at_a_Virginal_-_National_Gallery,_London.jpg",
+    "pageViews": 673
+  },
+  {
+    "qid": "Q8030760",
+    "title": "‘Woman with a Parrot’ is painted",
+    "subtitle": "Painting by Gustave Courbet",
+    "year": 1866,
+    "fact": "La Femme au perroquet is an oil painting on canvas by French artist Gustave Courbet.",
+    "wikipediaSlug": "Woman_with_a_Parrot_(Courbet)",
+    "image": "Woman_with_a_Parrot_MET_DT43.jpg",
+    "pageViews": 666
+  },
+  {
+    "qid": "Q2627034",
+    "title": "‘Saint Catherine of Alexandria’ is painted",
+    "subtitle": "Painting by Caravaggio",
+    "year": 1598,
+    "fact": "Saint Catherine of Alexandria is an oil painting by the Italian Baroque master Caravaggio, from c.",
+    "wikipediaSlug": "Saint_Catherine_of_Alexandria_(Caravaggio)",
+    "image": "Caravaggio_-_Saint_Catherine_of_Alexandria_(post-restoration_image).jpg",
+    "pageViews": 660
+  },
+  {
+    "qid": "Q2344357",
+    "title": "‘Oddi Altarpiece’ is painted",
+    "subtitle": "Painting by Raphael",
+    "year": 1502,
+    "fact": "The Oddi Altarpiece, or more correctly the degli Oddi altarpiece, is an altarpiece of the Coronation of the Virgin painted in 1502-1504 by the Italian Renaissance master Raphael for the altar of the Oddi family chapel in the church of San Francesco al Prato in Perugia, Italy, now in the Vatican Pinacoteca.",
+    "wikipediaSlug": "Oddi_Altarpiece_(Raphael)",
+    "image": "Pala_degli_Oddi_(Raphael)_September_2015-1a.jpg",
+    "pageViews": 655
+  },
+  {
+    "qid": "Q2629134",
+    "title": "‘Madonna and Child with the Book’ is painted",
+    "subtitle": "Painting by Raphael",
+    "year": 1503,
+    "fact": "The Madonna and Child is an oil on wood painting by the Italian High Renaissance painter Raphael, executed c.",
+    "wikipediaSlug": "Madonna_and_Child_with_the_Book",
+    "image": "Raphael_Madonna_Pasadena.jpg",
+    "pageViews": 651
+  },
+  {
+    "qid": "Q32234",
+    "title": "‘Diana and her Nymphs’ is painted",
+    "subtitle": "Painting by Johannes Vermeer",
+    "year": 1650,
+    "fact": "Diana and Her Companions is a painting by Dutch artist Johannes Vermeer completed in the early to mid-1650s, now at the Mauritshuis museum in The Hague.",
+    "wikipediaSlug": "Diana_and_Her_Companions",
+    "image": "Johannes_Vermeer_-_Diana_and_her_Nymphs_-_406_-_Mauritshuis.jpg",
+    "pageViews": 633
+  },
+  {
+    "qid": "Q536024",
+    "title": "‘Nana’ is painted",
+    "subtitle": "Painting by Édouard Manet",
+    "year": 1877,
+    "fact": "Nana is a painting by French painter Édouard Manet.",
+    "wikipediaSlug": "Nana_(Manet)",
+    "image": "Nana_Manet_1877.jpg",
+    "pageViews": 632
+  },
+  {
+    "qid": "Q18620351",
+    "title": "‘Spring’ is painted",
+    "subtitle": "Painting by Édouard Manet",
+    "year": 1881,
+    "fact": "Spring is an 1881 oil-on-canvas painting by Édouard Manet.",
+    "wikipediaSlug": "Spring_(Manet)",
+    "image": "Edouard_Manet_023.jpg",
+    "pageViews": 611
+  },
+  {
+    "qid": "Q698254",
+    "title": "‘The Return of the Herd’ is painted",
+    "subtitle": "Painting by Pieter Brueghel the Elder",
+    "year": 1565,
+    "fact": "The Return of the Herd is a panel painting in oils by the Netherlandish Renaissance artist Pieter Bruegel the Elder, made in 1565.",
+    "wikipediaSlug": "The_Return_of_the_Herd",
+    "image": "Pieter_Bruegel_(I)_-_The_Return_of_the_Herd_(1565).jpg",
+    "pageViews": 610
+  },
+  {
+    "qid": "Q1527541",
+    "title": "‘Nativity’ is painted",
+    "subtitle": "Painting by Antonio da Correggio",
+    "year": 1529,
+    "fact": "The Nativity is a painting finished around 1529–1530 by the Italian painter Antonio da Correggio.",
+    "wikipediaSlug": "Nativity_(Correggio)",
+    "image": "Correggio_-_The_Holy_Night_-_Google_Art_Project.jpg",
+    "pageViews": 610
+  },
+  {
+    "qid": "Q2537695",
+    "title": "‘Judith’ is painted",
+    "subtitle": "Painting by Giorgione",
+    "year": 1504,
+    "fact": "Judith is a painting by the Italian painter Giorgione, executed around 1504.",
+    "wikipediaSlug": "Judith_(Giorgione)",
+    "image": "Giorgione_-_Judith_-_Eremitage.jpg",
+    "pageViews": 603
+  },
+  {
+    "qid": "Q9397770",
+    "title": "‘Jewess with Oranges’ is painted",
+    "subtitle": "Painting by Aleksander Gierymski",
+    "year": 1880,
+    "fact": "Jewess with Oranges is an oil painting on canvas by Aleksander Gierymski finished in 1881 and purchased by the National Museum in Warsaw in 1928.",
+    "wikipediaSlug": "Jewess_with_Oranges",
+    "image": "Aleksander_Gierymski,_Żydówka_z_pomarańczami.jpg",
+    "pageViews": 590
+  },
+  {
+    "qid": "Q948894",
+    "title": "‘La Mousmé’ is painted",
+    "subtitle": "Painting by Vincent van Gogh",
+    "year": 1888,
+    "fact": "La Mousmé also known as La Mousmé, Sitting in a Cane Chair, Half-Figure was painted by Vincent van Gogh in 1888 while living in Arles, which van Gogh dubbed \"the Japan of the south\".",
+    "wikipediaSlug": "La_Mousm%C3%A9",
+    "image": "Vangogh_mousme.jpg",
+    "pageViews": 585
+  },
+  {
+    "qid": "Q2278818",
+    "title": "‘Agostina Segatori Sitting in the Café du Tambourin’ is painted",
+    "subtitle": "Painting by Vincent van Gogh",
+    "year": 1887,
+    "fact": "Agostina Segatori Sitting in the Café du Tambourin was painted by Vincent van Gogh in 1887.",
+    "wikipediaSlug": "Agostina_Segatori_Sitting_in_the_Caf%C3%A9_du_Tambourin",
+    "image": "Vincent_van_Gogh_-_In_the_café_-_Agostina_Segatori_in_Le_Tambourin_-_Google_Art_Project_2.jpg",
+    "pageViews": 582
+  },
+  {
+    "qid": "Q474409",
+    "title": "‘Lucca Madonna’ is painted",
+    "subtitle": "Painting by Jan van Eyck",
+    "year": 1437,
+    "fact": "The Lucca Madonna is an oil painting by the Early Netherlandish master Jan van Eyck, painted in approximately 1437.",
+    "wikipediaSlug": "Lucca_Madonna",
+    "image": "Jan_van_Eyck_-_Lucca_Madonna_-_Google_Art_Project.jpg",
+    "pageViews": 578
+  },
+  {
+    "qid": "Q2428778",
+    "title": "‘Portrait of the Artist Holding a Thistle’ is painted",
+    "subtitle": "Painting by Albrecht Dürer",
+    "year": 1493,
+    "fact": "Portrait of the Artist Holding a Thistle is an oil painting on parchment pasted on canvas by the German artist Albrecht Dürer.",
+    "wikipediaSlug": "Portrait_of_the_Artist_Holding_a_Thistle",
+    "image": "Portrait_de_l'artiste_tenant_un_chardon_-_Albrecht_Dürer_-_Musée_du_Louvre_Peintures_RF_2382.jpg",
+    "pageViews": 575
+  },
+  {
+    "qid": "Q919294",
+    "title": "‘Madonna and Child (The Conestabile Madonna)’ is painted",
+    "subtitle": "Painting by Raphael",
+    "year": 1504,
+    "fact": "The Conestabile Madonna is a small painting by the Italian Renaissance artist Raphael, executed c.",
+    "wikipediaSlug": "Conestabile_Madonna",
+    "image": "Raffael_024.jpg",
+    "pageViews": 560
+  },
+  {
+    "qid": "Q2713620",
+    "title": "‘Ansidei Madonna’ is painted",
+    "subtitle": "Painting by Raphael",
+    "year": 1505,
+    "fact": "The Ansidei Madonna is a 1505–1507 painting by the Italian High Renaissance artist Raphael, painted during his Florentine period.",
+    "wikipediaSlug": "Ansidei_Madonna",
+    "image": "PalaAnsidei.jpg",
+    "pageViews": 554
+  },
+  {
+    "qid": "Q39013",
+    "title": "‘The Woman in the Waves’ is painted",
+    "subtitle": "Painting by Gustave Courbet",
+    "year": 1868,
+    "fact": "The Woman in the Waves is an 1868 painting by the French Realist painter Gustave Courbet, now in the Metropolitan Museum of Art in New York.",
+    "wikipediaSlug": "The_Woman_in_the_Waves",
+    "image": "The_Woman_in_the_Waves_MET_DT887.jpg",
+    "pageViews": 514
+  },
+  {
+    "qid": "Q2535473",
+    "title": "‘The Lunch’ is painted",
+    "subtitle": "Painting by Diego Velázquez",
+    "year": 1617,
+    "fact": "The Lunch is a very early painting by Spanish artist Diego Velázquez, finished c.",
+    "wikipediaSlug": "The_Lunch_(Vel%C3%A1zquez)",
+    "image": "Diego_Velázquez_016.jpg",
+    "pageViews": 512
+  },
+  {
+    "qid": "Q731639",
+    "title": "‘The Plum’ is painted",
+    "subtitle": "Painting by Édouard Manet",
+    "year": 1878,
+    "fact": "Plum Brandy, also known as The Plum, is an oil painting by Édouard Manet.",
+    "wikipediaSlug": "Plum_Brandy",
+    "image": "Edouard_Manet_-_The_Plum_-_National_Gallery_of_Art.jpg",
+    "pageViews": 510
+  },
+  {
+    "qid": "Q430069",
+    "title": "‘Ecce Homo’ is painted",
+    "subtitle": "Painting by Hieronymus Bosch",
+    "year": 1490,
+    "fact": "Ecce Homo is a painting of the episode in the Passion of Jesus by the Early Netherlandish painter Hieronymus Bosch, painted between 1475 and 1485.",
+    "wikipediaSlug": "Ecce_Homo_(Bosch,_Frankfurt)",
+    "image": "Ecce_Homo_(SM_1577).png",
+    "pageViews": 509
+  },
+  {
+    "qid": "Q2393412",
+    "title": "‘Venus and Mars Surprised by Vulcan’ is painted",
+    "subtitle": "Painting by Jacopo Tintoretto",
+    "year": 1555,
+    "fact": "Mars and Venus Surprised by Vulcan or Venus, Vulcan and Mars is a 1551-1552 oil on canvas painting by Jacopo Tintoretto, now in the Alte Pinakothek in Munich.",
+    "wikipediaSlug": "Mars_and_Venus_Surprised_by_Vulcan",
+    "image": "Jacopo_Tintoretto_035.jpg",
+    "pageViews": 475
+  },
+  {
+    "qid": "Q1171740",
+    "title": "‘White House at Night’ is painted",
+    "subtitle": "Painting by Vincent van Gogh",
+    "year": 1890,
+    "fact": "White House at Night is an oil-on-canvas painting created on 16 June 1890 in the small town of Auvers-sur-Oise by Vincent van Gogh, six weeks before his death.",
+    "wikipediaSlug": "White_House_at_Night",
+    "image": "Whitehousenight.jpg",
+    "pageViews": 467
+  },
+  {
+    "qid": "Q2504917",
+    "title": "‘The Green Christ’ is painted",
+    "subtitle": "Painting by Paul Gauguin",
+    "year": 1889,
+    "fact": "The Green Christ is an oil-on-canvas painting executed by Paul Gauguin on November 20, 1889 in Pont-Aven, Brittany.",
+    "wikipediaSlug": "The_Green_Christ",
+    "image": "Paul_Gauguin_-_The_Green_Christ_(1889).jpg",
+    "pageViews": 433
+  },
+  {
+    "qid": "Q59815",
+    "title": "‘The Old Musician’ is painted",
+    "subtitle": "Painting by Édouard Manet",
+    "year": 1862,
+    "fact": "The Old Musician is an 1862 oil painting on canvas by French painter Édouard Manet, produced during the period when the artist was influenced by Spanish art.",
+    "wikipediaSlug": "The_Old_Musician",
+    "image": "Édouard_Manet_-_Le_Vieux_Musicien.jpg",
+    "pageViews": 417
+  },
+  {
+    "qid": "Q2343939",
+    "title": "‘Saint Sebastian’ is painted",
+    "subtitle": "Painting by Raphael",
+    "year": 1501,
+    "fact": "Saint Sebastian is a painting of the early Christian saint and martyr Saint Sebastian painted c. 1501–1502 by the Italian High Renaissance artist Raphael.",
+    "wikipediaSlug": "Saint_Sebastian_(Raphael)",
+    "image": "Raffael_021.jpg",
+    "pageViews": 415
+  },
+  {
+    "qid": "Q2052008",
+    "title": "‘Jacob’s Dream’ is painted",
+    "subtitle": "Painting by Jusepe de Ribera",
+    "year": 1639,
+    "fact": "Jacob's Dream is a 1639 oil-on-canvas painting by the Spanish Tenebrist painter José de Ribera.",
+    "wikipediaSlug": "Jacob%27s_Dream",
+    "image": "El_sueño_de_Jacob,_por_José_de_Ribera.jpg",
+    "pageViews": 405
+  },
+  {
+    "qid": "Q4062416",
+    "title": "‘Alice’ is painted",
+    "subtitle": "Painting by Amedeo Modigliani",
+    "year": 1918,
+    "fact": "Alice is a c.1918 oil on canvas painting by Amedeo Modigliani.",
+    "wikipediaSlug": "Alice_(painting)",
+    "image": "Alice_(Amedeo_Modigliani).jpg",
+    "pageViews": 382
+  },
+  {
+    "qid": "Q602813",
+    "title": "‘Solly Madonna’ is painted",
+    "subtitle": "Painting by Raphael",
+    "year": 1500,
+    "fact": "The Solly Madonna by the Italian Renaissance artist Raphael was painted sometime between 1500 and 1504.",
+    "wikipediaSlug": "Solly_Madonna",
+    "image": "Raffaello_Sanzio_(Urbino,_28_marzo_1483_–_Roma,_6_aprile_1520)_-_Madonna_Solly_(1500-1504)_Olio_su_tavola_dimensioni_52x38_cm._-_Gemäldegalerie,_Berlino.jpg",
+    "pageViews": 364
+  },
+  {
+    "qid": "Q2627028",
+    "title": "‘Portrait of Elisabetta Gonzaga’ is painted",
+    "subtitle": "Painting by Raphael",
+    "year": 1504,
+    "fact": "Portrait of Elisabetta Gonzaga is an oil on wood painting attributed to the Italian Renaissance artist Raphael, completed c. 1504–1505, and today housed in the Uffizi Gallery, Florence.",
+    "wikipediaSlug": "Portrait_of_Elisabetta_Gonzaga",
+    "image": "Portrait_of_Elisabetta_Gonzaga,_Duchess_of_Urbino_(by_Raffaello_Sanzio)_–_Galleria_degli_Uffizi,_Florence_FXD.jpg",
+    "pageViews": 362
+  },
+  {
+    "qid": "Q3500414",
+    "title": "‘The Farmers' Lunch’ is painted",
+    "subtitle": "Painting by Diego Velázquez",
+    "year": 1618,
+    "fact": "The Farmers' Lunch is one of the earliest paintings by the Spanish artist Diego Velázquez.",
+    "wikipediaSlug": "The_Farmers%27_Lunch",
+    "image": "Diego_Velázquez_005.jpg",
+    "pageViews": 351
+  },
+  {
+    "qid": "Q2276546",
+    "title": "‘La donna gravida’ is painted",
+    "subtitle": "Painting by Raphael",
+    "year": 1505,
+    "fact": "La donna gravida is an oil on wood portrait by the Italian High Renaissance artist Raphael.",
+    "wikipediaSlug": "La_donna_gravida",
+    "image": "Raphael-LaDonnaGravida(1505-1506).jpg",
+    "pageViews": 333
+  },
+  {
+    "qid": "Q1782583",
+    "title": "‘Indian Widow’ is painted",
+    "subtitle": "Painting by Joseph Wright of Derby",
+    "year": 1783,
+    "fact": "Indian Widow is a painting by Joseph Wright of Derby, completed in late 1783 or early 1784 and first shown in his solo exhibition in London in 1785.",
+    "wikipediaSlug": "Indian_Widow",
+    "image": "Joseph_Wright_of_Derby._The_Widow_of_an_Indian_Chief_Watching_the_Arms_of_Her_Deceased_Husband.1785..jpg",
+    "pageViews": 306
   }
 ]

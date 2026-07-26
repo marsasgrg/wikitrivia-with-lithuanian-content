@@ -1108,5 +1108,35 @@
     "wikipediaSlug": "Emperor_Wen_of_Song",
     "image": "Liu_Yilong_(Emperor_Wen_of_Liu_Song).jpg",
     "pageViews": 1021
+  },
+  {
+    "qid": "Q7393",
+    "title": "Emperor Ming of Jin becomes Emperor of China",
+    "subtitle": null,
+    "year": 323,
+    "fact": "Emperor Ming of Jin (simplified Chinese: 晋明帝; traditional Chinese: 晉明帝; pinyin: Jìn Míng Dì; Wade–Giles: Chin Ming-ti; 299 – 18 October 325, personal name Sima Shao, courtesy name Daoji, was an emperor of the Eastern Jin dynasty of China.",
+    "wikipediaSlug": "Emperor_Ming_of_Jin",
+    "image": "Sima_Shao_(Emperor_Ming_of_Jin).png",
+    "pageViews": 815
+  },
+  {
+    "qid": "Q1194981",
+    "title": "Emperor Gao of Southern Qi becomes Emperor of China",
+    "subtitle": null,
+    "year": 479,
+    "fact": "Emperor Gao of Southern Qi, personal name Xiao Daocheng (蕭道成), courtesy name Shaobo (紹伯), childhood name Doujiang (鬥將), was the founding emperor of the Southern Qi dynasty of China.",
+    "wikipediaSlug": "Emperor_Gao_of_Southern_Qi",
+    "image": "Xiao_Daocheng_(Qi_Gaodi).jpg",
+    "pageViews": 761
+  },
+  {
+    "qid": "Q7398",
+    "title": "Emperor Ai of Jin becomes Emperor of China",
+    "subtitle": null,
+    "year": 361,
+    "fact": "Emperor Ai of Jin, personal name Sima Pi (司馬丕), courtesy name Qianling (千齡), was an emperor of the Eastern Jin Dynasty.",
+    "wikipediaSlug": "Emperor_Ai_of_Jin",
+    "image": "晉哀帝_司馬丕.png",
+    "pageViews": 585
   }
 ]

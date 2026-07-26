@@ -108,5 +108,15 @@
     "wikipediaSlug": "Firefox_for_Android",
     "image": "Firefox_logo,_2019.svg",
     "pageViews": 4473
+  },
+  {
+    "qid": "Q30589050",
+    "title": "Samsung Browser is released",
+    "subtitle": "Web browser",
+    "year": 2013,
+    "fact": "Samsung Browser is a web browser developed by Samsung Electronics.",
+    "wikipediaSlug": "Samsung_Browser",
+    "image": "Samsung_Internet_logo_2025.svg",
+    "pageViews": 600
   }
 ]

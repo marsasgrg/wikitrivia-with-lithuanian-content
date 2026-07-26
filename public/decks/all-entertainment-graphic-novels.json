@@ -248,5 +248,75 @@
     "wikipediaSlug": "Cowboys_%26_Aliens_(comics)",
     "image": "Cowboy-and-aliens-cover.jpg",
     "pageViews": 1147
+  },
+  {
+    "qid": "Q760138",
+    "title": "‘Chroniques de Jérusalem’ is published",
+    "subtitle": "Graphic novel by Guy Delisle",
+    "year": 2011,
+    "fact": "Jerusalem: Chronicles from the Holy City, originally published in French as Chroniques de Jérusalem, is a 2008 graphic novel written and illustrated by Guy Delisle.",
+    "wikipediaSlug": "Jerusalem:_Chronicles_from_the_Holy_City",
+    "image": "Cover_of_Jerusalem,_by_Guy_Delisle.jpg",
+    "pageViews": 923
+  },
+  {
+    "qid": "Q1928979",
+    "title": "‘Safe Area Goražde’ is published",
+    "subtitle": "Graphic novel by Joe Sacco",
+    "year": 2000,
+    "fact": "Safe Area Goražde is a journalistic comic book about the Bosnian War, written and drawn by Joe Sacco.",
+    "wikipediaSlug": "Safe_Area_Gora%C5%BEde",
+    "image": "Safe_Area_Goražde.gif",
+    "pageViews": 791
+  },
+  {
+    "qid": "Q4890860",
+    "title": "‘I Never Liked You’ is published",
+    "subtitle": "Graphic novel by Chester Brown",
+    "year": 1994,
+    "fact": "I Never Liked You is a graphic novel by Canadian cartoonist Chester Brown.",
+    "wikipediaSlug": "I_Never_Liked_You_(comics)",
+    "image": "INeverLikedYouCover.jpg",
+    "pageViews": 736
+  },
+  {
+    "qid": "Q7757443",
+    "title": "‘The Playboy’ is published",
+    "subtitle": "Graphic novel by Chester Brown",
+    "year": 1992,
+    "fact": "The Playboy is a graphic novel by the Canadian cartoonist Chester Brown, serialized in 1990 in Brown's comic book Yummy Fur and collected in different revised book editions in 1992 and 2013.",
+    "wikipediaSlug": "The_Playboy",
+    "image": "ChesterBrownThePlayboyCover.jpg",
+    "pageViews": 640
+  },
+  {
+    "qid": "Q4869366",
+    "title": "‘Batman: Noël’ is published",
+    "subtitle": "Graphic novel by Lee Bermejo",
+    "year": 2011,
+    "fact": "Batman: Noël is a 2011 original graphic novel written and illustrated by Lee Bermejo and published by DC, featuring the superhero Batman.",
+    "wikipediaSlug": "Batman:_No%C3%ABl",
+    "image": "Batman_Noel_cover_art.jpeg",
+    "pageViews": 626
+  },
+  {
+    "qid": "Q12000357",
+    "title": "‘Signal to Noise’ is published",
+    "subtitle": "Graphic novel by Neil Gaiman",
+    "year": 1992,
+    "fact": "Signal to Noise (ISBN 1-56971-144-5) is a graphic novel written by Neil Gaiman and illustrated by Dave McKean.",
+    "wikipediaSlug": "Signal_to_Noise_(comics)",
+    "image": "Signal_to_Noise_cover.jpg",
+    "pageViews": 344
+  },
+  {
+    "qid": "Q4808464",
+    "title": "‘Assassin's Creed: The Chain’ is published",
+    "subtitle": "Graphic novel by",
+    "year": 2012,
+    "fact": "Assassin's Creed: The Chain is a graphic novel published by UbiWorkshop in August 2012.",
+    "wikipediaSlug": "Assassin%27s_Creed:_The_Chain",
+    "image": "Assassin's_Creed_The_Chain_Cover.jpg",
+    "pageViews": 286
   }
 ]

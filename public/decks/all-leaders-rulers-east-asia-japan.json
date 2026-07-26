@@ -1078,5 +1078,25 @@
     "wikipediaSlug": "Emperor_K%C5%8Dbun",
     "image": "Emperor_Koubunn.jpg",
     "pageViews": 1202
+  },
+  {
+    "qid": "Q471799",
+    "title": "Go-En'yū becomes Emperor of Japan",
+    "subtitle": null,
+    "year": 1371,
+    "fact": "Emperor Go-En'yū was the 5th of the Emperors of Northern Court during the period of two courts in Japan.",
+    "wikipediaSlug": "Emperor_Go-En%27y%C5%AB",
+    "image": "Emperor_Go-En'yū.jpg",
+    "pageViews": 590
+  },
+  {
+    "qid": "Q329713",
+    "title": "Junnin becomes Emperor of Japan",
+    "subtitle": null,
+    "year": 758,
+    "fact": "Emperor Junnin was the 47th emperor of Japan, according to the traditional order of succession.",
+    "wikipediaSlug": "Emperor_Junnin",
+    "image": "Emperor_Junnin.jpg",
+    "pageViews": 540
   }
 ]

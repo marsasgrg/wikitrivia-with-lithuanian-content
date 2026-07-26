@@ -928,5 +928,125 @@
     "wikipediaSlug": "Monastery_of_the_Cross",
     "image": "MonasteryOfTheCrossNov15_2022_03.jpg",
     "pageViews": 1126
+  },
+  {
+    "qid": "Q731284",
+    "title": "Temple of Vespasian and Titus is built",
+    "subtitle": "Temple at the Forum Romanum",
+    "year": 79,
+    "fact": "The so-called Temple of Vespasian and Titus is located in Rome at the western end of the Roman Forum between the Temple of Concordia and the Temple of Saturn.",
+    "wikipediaSlug": "Temple_of_Vespasian_and_Titus",
+    "image": "RomaForoRomanoTempioVespasiano.JPG",
+    "pageViews": 976
+  },
+  {
+    "qid": "Q1631638",
+    "title": "San Crisogono is built",
+    "subtitle": "Church in Rome",
+    "year": 401,
+    "fact": "Basilica di San Crisogono is a titular church and minor basilica located in Trastevere, Rome.",
+    "wikipediaSlug": "San_Crisogono",
+    "image": "Trastevere_-_san_Crisogono_01424.JPG",
+    "pageViews": 943
+  },
+  {
+    "qid": "Q846559",
+    "title": "Santa Maria in Via Lata is built",
+    "subtitle": "Church in Roma",
+    "year": 401,
+    "fact": "Santa Maria in Via Lata is a church on the Via del Corso, in Rome, Italy.",
+    "wikipediaSlug": "Santa_Maria_in_Via_Lata",
+    "image": "Santa_Maria_in_Via_Lata01.jpg",
+    "pageViews": 883
+  },
+  {
+    "qid": "Q592799",
+    "title": "San Giovanni a Porta Latina is built",
+    "subtitle": "Church building in Rome, Italy",
+    "year": 401,
+    "fact": "San Giovanni a Porta Latina is a Basilica church in Rome, Italy, near the Porta Latina of the Aurelian Wall.",
+    "wikipediaSlug": "San_Giovanni_a_Porta_Latina",
+    "image": "DSC09436_MSan_Giovanni_a_Porta_Latina_(Rome).jpg",
+    "pageViews": 683
+  },
+  {
+    "qid": "Q28806346",
+    "title": "Zerzevan Castle is built",
+    "subtitle": "Archaeological site in Diyarbakır province, Turkey",
+    "year": 400,
+    "fact": "Zerzevan Castle, also known as Samachi Castle, is a ruined Eastern Roman castle, a former important military base, in Diyarbakır Province, southeastern Turkey.",
+    "wikipediaSlug": "Zerzevan_Castle",
+    "image": "Zerzevan_Kalesi_Kilise.jpg",
+    "pageViews": 633
+  },
+  {
+    "qid": "Q97616842",
+    "title": "Carteia is built",
+    "subtitle": "Cultural property in San Roque, Spain",
+    "year": -939,
+    "fact": "Carteia was a Phoenician and Roman town at the head of the Bay of Gibraltar in Spain.",
+    "wikipediaSlug": "Carteia",
+    "image": "Carteia_Foro_(8).jpg",
+    "pageViews": 629
+  },
+  {
+    "qid": "Q1270759",
+    "title": "Sant'Agata dei Goti Church is built",
+    "subtitle": "Church in Rome, Italy",
+    "year": 401,
+    "fact": "Sant'Agata dei Goti is a titular church in Rome, Italy, dedicated to the martyr Agatha of Sicily and the home of the Congregation of the Sacred Stigmata’s (Stigmatines) General Curia.",
+    "wikipediaSlug": "Sant%27Agata_de%27_Goti,_Rome",
+    "image": "Sant'Agata_dei_Goti_(Rome)_-_Interior.jpg",
+    "pageViews": 569
+  },
+  {
+    "qid": "Q1785642",
+    "title": "Sant'Eusebio is built",
+    "subtitle": "Church building in Rome, Italy",
+    "year": 401,
+    "fact": "Sant'Eusebio is a titular church in Rome, devoted to Saint Eusebius of Rome, a 4th-century martyr, and built in the Esquilino rione.",
+    "wikipediaSlug": "Sant%27Eusebio",
+    "image": "Chiesa_di_Sant'Eusebio.JPG",
+    "pageViews": 508
+  },
+  {
+    "qid": "Q5451665",
+    "title": "Marbin Fortress is completed",
+    "subtitle": "Fortress in Isfahan, Iranian national heritage site",
+    "year": -1400,
+    "fact": "The Fire Temple of Isfahan is a Sasanian era archaeological complex located on a hill of the same name about 8 kilometers west of the city center of Isfahan, Iran.",
+    "wikipediaSlug": "Fire_Temple_of_Isfahan",
+    "image": "Atashgah_Isfahan_Zoroastrian_fire_temple.jpg",
+    "pageViews": 504
+  },
+  {
+    "qid": "Q247588",
+    "title": "Bolnisi Sioni is built",
+    "subtitle": "Orthodox Christian basilica in Bolnisi, Georgia",
+    "year": 401,
+    "fact": "Bolnisi Sioni or Bolnisi Sioni Cathedral is a Georgian Orthodox basilica in the Bolnisi village of Bolnisi District, Georgia.",
+    "wikipediaSlug": "Bolnisi_Sioni",
+    "image": "Bolnisi_Sioni_Cathedral.jpg",
+    "pageViews": 480
+  },
+  {
+    "qid": "Q684506",
+    "title": "Cathedral of Saint Mary of the Assumption (Chur) is built",
+    "subtitle": "Cathedral",
+    "year": 401,
+    "fact": "Chur Cathedral, otherwise known as the Cathedral of the Assumption of Mary, is the Catholic cathedral of the diocese of Chur in Switzerland.",
+    "wikipediaSlug": "Chur_Cathedral",
+    "image": "Chur_Kathedrale_1.jpg",
+    "pageViews": 426
+  },
+  {
+    "qid": "Q1750627",
+    "title": "Santa Prisca is built",
+    "subtitle": "Church building in Rome, Italy",
+    "year": 401,
+    "fact": "Santa Prisca is a titular church of Rome, on the Aventine Hill, for Cardinal-priests.",
+    "wikipediaSlug": "Santa_Prisca,_Rome",
+    "image": "Santa_Prisca-facciata-antmoose.jpg",
+    "pageViews": 386
   }
 ]
