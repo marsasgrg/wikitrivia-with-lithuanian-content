@@ -100,7 +100,7 @@ type RejectionReason =
 
 const QID_PATTERN = /\bQ\d+\b/;
 const PUBLIC_DECKS_DIR = path.join("public", "decks");
-const MIN_CARD_PAGE_VIEWS = 1_000;
+const MIN_CARD_PAGE_VIEWS = 250;
 
 function roundFrequency(value: number): number {
   return Math.round(value * 1_000_000) / 1_000_000;
