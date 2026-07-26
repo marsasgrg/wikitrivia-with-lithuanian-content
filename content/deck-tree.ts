@@ -192,6 +192,7 @@ import websitesLaunchYear from "./queries/websites-launch-year/query";
 import wessexKingsTakingOffice from "./queries/wessex-kings-taking-office/query";
 import writingSystemsYear from "./queries/writing-systems-year/query";
 import { QueryDefinition, SourceRow } from "./query-definition";
+import lithuanianKingsTakingOffice from "./queries/lithuanian-monarchs-taking-office/query";
 
 interface DeckDefinition {
   children?: readonly DeckDefinition[];
@@ -604,6 +605,12 @@ const rootDeckDefinition: DeckDefinition = {
                   title: "Poland",
                   frequency: 0.15,
                   sources: [polishKingsTakingOffice],
+                },
+                {
+                  slug: "lithuania",
+                  title: "Lithuania",
+                  frequency: 0.15,
+                  sources: [lithuanianKingsTakingOffice],
                 },
                 {
                   slug: "bohemia",

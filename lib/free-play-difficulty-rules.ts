@@ -7,7 +7,7 @@ import {
 } from "../types/routes";
 import { createDeckNodeListMap } from "./deck-tree";
 
-export const MIN_ROUTE_CARD_COUNT = 10;
+export const MIN_ROUTE_CARD_COUNT = 9;
 
 export const FREE_PLAY_DIFFICULTY_ORDER: GameDifficulty[] = [
   "easy",

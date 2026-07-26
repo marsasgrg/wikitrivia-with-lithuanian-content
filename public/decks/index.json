@@ -2,7 +2,7 @@
   "difficultyCounts": {
     "easy": 606,
     "normal": 971,
-    "hard": 1777
+    "hard": 1778
   },
   "id": "all",
   "minScore": 1000,
@@ -123,7 +123,7 @@
       "difficultyCounts": {
         "easy": 212,
         "normal": 421,
-        "hard": 1044
+        "hard": 1049
       },
       "id": "all-leaders",
       "minScore": 1000,
@@ -420,7 +420,7 @@
           "difficultyCounts": {
             "easy": 173,
             "normal": 363,
-            "hard": 955
+            "hard": 960
           },
           "id": "all-leaders-rulers",
           "minScore": 1000,
@@ -433,7 +433,7 @@
               "difficultyCounts": {
                 "easy": 111,
                 "normal": 249,
-                "hard": 596
+                "hard": 602
               },
               "id": "all-leaders-rulers-europe",
               "minScore": 1000,
@@ -650,6 +650,19 @@
                   "slug": "poland",
                   "themeHue": 180,
                   "title": "Poland",
+                  "frequency": 0.15
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 0,
+                    "hard": 9
+                  },
+                  "id": "all-leaders-rulers-europe-lithuania",
+                  "minScore": 0,
+                  "slug": "lithuania",
+                  "themeHue": 180,
+                  "title": "Lithuania",
                   "frequency": 0.15
                 },
                 {
