@@ -136,7 +136,7 @@
           "difficultyCounts": {
             "easy": 50,
             "normal": 90,
-            "hard": 162
+            "hard": 171
           },
           "id": "all-leaders-politicians",
           "minScore": 250,
@@ -149,7 +149,7 @@
               "difficultyCounts": {
                 "easy": 23,
                 "normal": 43,
-                "hard": 90
+                "hard": 99
               },
               "id": "all-leaders-politicians-europe",
               "minScore": 250,
@@ -182,6 +182,19 @@
                   "slug": "lithuania",
                   "themeHue": 180,
                   "title": "Lithuania",
+                  "frequency": 1.4
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 1,
+                    "hard": 22
+                  },
+                  "id": "all-leaders-politicians-europe-lithuania-including-rulers",
+                  "minScore": 0,
+                  "slug": "lithuania-including-rulers",
+                  "themeHue": 180,
+                  "title": "Lithuania Including Monarchs",
                   "frequency": 1.4
                 },
                 {

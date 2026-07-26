@@ -388,6 +388,12 @@ const rootDeckDefinition: DeckDefinition = {
                   sources: [lithuanianPMsTakingOffice, lithuanianPresidentsTakingOffice],
                 },
                 {
+                  slug: "lithuania-including-rulers",
+                  title: "Lithuania Including Monarchs",
+                  frequency: 1.4,
+                  sources: [lithuanianPMsTakingOffice, lithuanianKingsTakingOffice, lithuanianPresidentsTakingOffice],
+                },
+                {
                   slug: "france",
                   title: "France",
                   frequency: 1,
